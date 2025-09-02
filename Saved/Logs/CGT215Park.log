@@ -2399,3 +2399,153 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.02-17.43.36:201][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.02-17.43.36:201][923]AssetCheck: /Game/Lecture1-Exercise1 Validating asset
 [2025.09.02-17.43.36:201][923]AssetCheck: /Game/Lecture1-Exercise1_HLOD0_Instancing Validating asset
+[2025.09.02-17.46.30:765][765]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 688.776001
+[2025.09.02-17.46.30:899][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.02-17.46.30:899][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 688.876282, Update Interval: 333.901184
+[2025.09.02-17.52.12:813][262]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1030.822998
+[2025.09.02-17.52.13:813][264]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.02-17.52.13:813][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1031.488770, Update Interval: 357.132477
+[2025.09.02-17.52.31:171][434]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Hello.BP_Hello
+[2025.09.02-17.52.31:172][434]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.09.02-17.52.46:203][745]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 13745
+[2025.09.02-17.52.46:203][745]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2025.09.02-17.52.46:220][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.02-17.52.46:428][746]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.09.02-17.53.09:773][455]LogShaderCompilers: Display: ================================================
+[2025.09.02-17.53.09:773][455]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.02-17.53.09:773][455]LogShaderCompilers: Display: Total job queries 242, among them cache hits 80 (33.06%), DDC hits 147 (60.74%), Duplicates 4 (1.65%)
+[2025.09.02-17.53.09:773][455]LogShaderCompilers: Display: Tracking 158 distinct input hashes that result in 153 distinct outputs (96.84%)
+[2025.09.02-17.53.09:773][455]LogShaderCompilers: Display: RAM used: 122.61 KiB of 3.20 GiB budget. Usage: 0.00%
+[2025.09.02-17.53.09:773][455]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.02-17.53.09:773][455]LogShaderCompilers: Display: Shaders Compiled: 11
+[2025.09.02-17.53.09:773][455]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2025.09.02-17.53.09:773][455]LogShaderCompilers: Display: Average time worker was idle: 0.96 s
+[2025.09.02-17.53.09:773][455]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2025.09.02-17.53.09:773][455]LogShaderCompilers: Display: Job execution time: average 2.84 s, max 3.27 s
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Job life time (pending + execution): average 2.89 s, max 3.30
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Shader code size: average 7.355 KiB, min 3.289 KiB, max 13.426 KiB
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.04 s
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.28%
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Average processing rate: 2.18 jobs/sec
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Total thread time: 6.658 s
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Total thread preprocess time: 5.501 s
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Percentage time preprocessing: 82.63%
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Effective parallelization: 1.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 11
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.52 sec, max 1.52 sec, min 1.52 sec)
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 22.86% of total time (compiled    1 times, average 1.52 sec, max 1.52 sec, min 1.52 sec)
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.23% of total time (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display:                                                  FVelocityPS - 7.09% of total time (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.04% of total time (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 6.78% of total time (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: === Material stats ===
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Materials Translated:    129
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Material Translation Only: 0.04 s (26%)
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: Material Cache Hits: 6 (5%)
+[2025.09.02-17.53.09:775][455]LogShaderCompilers: Display: ================================================
+[2025.09.02-17.53.46:922][333]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.02-17.54.29:655][  5]LogSlate: Took 0.012804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.09.02-17.54.36:582][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.09.02-17.55.06:440][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.02-17.55.56:858][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.02-17.55.57:155][  9]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Hello] ([2] browsable assets)...
+[2025.09.02-17.55.57:155][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Hello]
+[2025.09.02-17.55.57:155][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Hello" FILE="../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/BP_Hello.uasset" SILENT=true
+[2025.09.02-17.55.57:165][  9]LogSavePackage: Moving output files for package: /Game/BP_Hello
+[2025.09.02-17.55.57:166][  9]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/BP_Hello501B65A14F9B030D591832B3242BD5FD.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/BP_Hello.uasset'
+[2025.09.02-17.55.57:229][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 370.526 ms (total: 2.58 sec)
+[2025.09.02-17.55.57:548][  9]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.02-17.55.57:548][  9]LogContentValidation: Enabled validators:
+[2025.09.02-17.55.57:548][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.02-17.55.57:548][  9]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.02-17.55.57:548][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.02-17.55.57:548][  9]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.02-17.55.57:548][  9]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.02-17.55.57:548][  9]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.02-17.55.57:548][  9]AssetCheck: /Game/BP_Hello Validating asset
+[2025.09.02-17.55.59:507][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.09.02-17.56.01:343][102]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.02-17.56.01:355][102]LogContentBundle: [Lecture1-Exercise1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.02-17.56.01:355][102]LogWorldPartition: Display: GenerateStreaming for 'Lecture1-Exercise1' started...
+[2025.09.02-17.56.01:365][102]LogWorldPartition: Display: GenerateStreaming for 'Lecture1-Exercise1' took 10.115 ms (total: 52.111 ms)
+[2025.09.02-17.56.01:365][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.02-17.56.01:365][102]LogPlayLevel: Display: Creating online subsystem for client :Context_8
+[2025.09.02-17.56.01:370][102]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.09.02-17.56.01:492][103]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lecture1-Exercise1
+[2025.09.02-17.56.01:514][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021677s)
+[2025.09.02-17.56.01:515][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lecture1-Exercise1.Lecture1-Exercise1 to /Game/UEDPIE_0_Lecture1-Exercise1.Lecture1-Exercise1 (0.021795s)
+[2025.09.02-17.56.01:558][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.09.02-17.56.01:562][103]LogChaosDD: Creating Chaos Debug Draw Scene for world Lecture1-Exercise1
+[2025.09.02-17.56.01:564][103]LogWorldPartition: ULevel::OnLevelLoaded(Lecture1-Exercise1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.02-17.56.01:564][103]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.02-17.56.01:564][103]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Lecture1-Exercise1.Lecture1-Exercise1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.02-17.56.01:564][103]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.02-17.56.01:577][103]LogWorldPartition: Display: WorldPartition initialize took 12.379 ms (total: 701.919 ms)
+[2025.09.02-17.56.01:577][103]LogPlayLevel: PIE: World Init took: (0.014885s)
+[2025.09.02-17.56.01:578][103]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.02-17.56.01:578][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.02-17.56.01:578][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.02-17.56.01:578][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.02-17.56.01:578][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.02-17.56.01:578][103]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.02-17.56.01:578][103]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.02-17.56.01:578][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.02-17.56.01:578][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.02-17.56.01:578][103]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.02-17.56.01:578][103]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.02-17.56.01:578][103]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.02-17.56.01:584][103]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.02-17.56.01:802][103]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.09.02-17.56.01:803][103]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.02-17.56.01:803][103]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.02-17.56.01:803][103]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.02-17.56.01:803][103]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.02-17.56.01:803][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.09.02-17.56.01:809][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.02-17.56.01:809][103]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.02-17.56.01:809][103]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.02-17.56.01:809][103]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lecture1-Exercise1'.
+[2025.09.02-17.56.01:809][103]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.02-17.56.01:815][103]LogLoad: Game class is 'GameModeBase'
+[2025.09.02-17.56.01:816][103]LogWorld: Bringing World /Game/UEDPIE_0_Lecture1-Exercise1.Lecture1-Exercise1 up for play (max tick rate 60) at 2025.09.03-02.56.01
+[2025.09.02-17.56.01:817][103]LogWorld: Bringing up level for play took: 0.002269
+[2025.09.02-17.56.01:830][103]LogStreaming: Display: FlushAsyncLoading(995,994,993,992,991,990,989,988,987,986,985,984,983,982,981,980,979,978,977,976,975,974,973,972,971,970,969,968,967,966,965,964,963,962,961,960,959,958,957,956,955,954,953): 43 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.56.02:111][103]PIE: Server logged in
+[2025.09.02-17.56.02:113][103]PIE: Play in editor total start time 0.759 seconds.
+[2025.09.02-17.56.07:868][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.02-17.56.07:868][283]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lecture1-Exercise1
+[2025.09.02-17.56.07:893][283]LogWorld: UWorld::CleanupWorld for Lecture1-Exercise1, bSessionEnded=true, bCleanupResources=true
+[2025.09.02-17.56.07:893][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.02-17.56.07:893][283]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Lecture1-Exercise1.Lecture1-Exercise1
+[2025.09.02-17.56.07:924][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.02-17.56.07:931][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.02-17.56.07:980][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.02-17.56.07:981][283]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.02-17.56.07:981][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.02-17.56.07:988][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.02-17.56.08:016][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2025.09.02-17.56.08:126][284]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.09.02-17.56.33:207][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.02-17.56.33:594][433]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/1/PU/7AIC0G8K7XCLKMYC7V7Q02
+[2025.09.02-17.56.33:595][433]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/7AIC0G8K7XCLKMYC7V7Q02AE4A186D43B507E9262A359790189B8A.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/1/PU/7AIC0G8K7XCLKMYC7V7Q02.uasset'
+[2025.09.02-17.56.33:810][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 601.155 ms (total: 3.18 sec)
+[2025.09.02-17.56.34:207][433]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.02-17.56.34:207][433]LogContentValidation: Enabled validators:
+[2025.09.02-17.56.34:207][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.02-17.56.34:207][433]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.02-17.56.34:207][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.02-17.56.34:207][433]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.02-17.56.34:207][433]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.02-17.56.34:207][433]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.02-17.56.34:207][433]AssetCheck: /Game/Lecture1-Exercise1 Validating asset
+[2025.09.02-17.56.34:866][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.09.02-17.56.34:871][434]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lecture1-Exercise1' took 0.042
