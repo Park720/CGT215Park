@@ -1604,3 +1604,798 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.02-17.41.30:094][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
 [2025.09.02-17.41.30:150][257]LogPlayLevel: Display: Destroying online subsystem :Context_5
 [2025.09.02-17.42.08:821][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.09.02-17.42.54:145][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.02-17.42.54:385][338]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Hello] ([2] browsable assets)...
+[2025.09.02-17.42.54:385][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Hello]
+[2025.09.02-17.42.54:386][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Hello" FILE="../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/BP_Hello.uasset" SILENT=true
+[2025.09.02-17.42.54:391][338]LogSavePackage: Moving output files for package: /Game/BP_Hello
+[2025.09.02-17.42.54:391][338]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/BP_Hello7D76A9874AFD8A37E0FABF807F4BA05A.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/BP_Hello.uasset'
+[2025.09.02-17.42.54:423][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 279.170 ms
+[2025.09.02-17.42.54:672][338]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.02-17.42.54:672][338]LogContentValidation: Enabled validators:
+[2025.09.02-17.42.54:683][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.02-17.42.54:683][338]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.02-17.42.54:683][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.02-17.42.54:683][338]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.02-17.42.54:683][338]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.02-17.42.54:683][338]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.02-17.42.54:683][338]AssetCheck: /Game/BP_Hello Validating asset
+[2025.09.02-17.43.09:853][724]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.02-17.43.09:854][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.02-17.43.09:950][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.09.02-17.43.32:337][923]LogSlate: Window 'Save Level As' being destroyed
+[2025.09.02-17.43.32:924][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.09.02-17.43.32:932][923]LogSavePackage: Moving output files for package: /Game/Lecture1-Exercise1
+[2025.09.02-17.43.32:932][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/Lecture1-Exercise1ED15E18949F754A3B66D94AE72B5812E.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/Lecture1-Exercise1.umap'
+[2025.09.02-17.43.33:022][923]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Lecture1-Exercise1_HLOD0_Instancing
+/Game/__ExternalActors__/Lecture1-Exercise1/2/79/BDCNOKXK25T85MDWEA1QQ8
+/Game/__ExternalObjects__/Lecture1-Exercise1/7/2Y/6UTBMQPIJ81DB46SOYMB8J
+/Game/__ExternalObjects__/Lecture1-Exercise1/0/IK/QUSXXA9YYO4RMFUEIJB4X2
+/Game/__ExternalObjects__/Lecture1-Exercise1/E/VB/WGVQMA5YBDI0WVNSESMN2S
+/Game/__ExternalObjects__/Lecture1-Exercise1/9/O7/B76PG8OI82CM69QZMBQS1X
+/Game/__ExternalObjects__/Lecture1-Exercise1/A/EV/I96GF0JWBAPFRNEAZUTXLJ
+/Game/__ExternalObjects__/Lecture1-Exercise1/E/QT/17EDIOOQ947ZKYBBL1G5V9
+/Game/__ExternalActors__/Lecture1-Exercise1/9/9G/GKXPJGO0FB8ZYP8FKM3212
+/Game/__ExternalActors__/Lecture1-Exercise1/A/BB/EMCH0ZM7OWPBLPD6VW7UJT
+/Game/__ExternalActors__/Lecture1-Exercise1/6/VC/7NKMSQH1M4W61KGC5RZ24H
+/Game/__ExternalActors__/Lecture1-Exercise1/9/WO/IHOXE7Q8OZHS3CCW9OE98M
+/Game/__ExternalActors__/Lecture1-Exercise1/7/B0/SX92C96A807FVSKQGW9IGK
+/Game/__ExternalActors__/Lecture1-Exercise1/3/8C/9GQLX7L7V4WR7P254V0HWD
+/Game/__ExternalActors__/Lecture1-Exercise1/C/O2/CZU6VRT7LAF5554AVDBFX8
+/Game/__ExternalActors__/Lecture1-Exercise1/E/YK/VG453SF7R2UFMUK80PVJKY
+/Game/__ExternalActors__/Lecture1-Exercise1/C/HP/9FCVQK948R4CBB2K7PB5K2
+/Game/__ExternalActors__/Lecture1-Exercise1/0/78/XGE7HQJHH8MC7TMNZBLD5U
+/Game/__ExternalActors__/Lecture1-Exercise1/D/48/ZM1JUI6K2554DB9MTJMJ62
+/Game/__ExternalActors__/Lecture1-Exercise1/A/7N/0Z4H06ECRURRDO5DPVODQ3
+/Game/__ExternalActors__/Lecture1-Exercise1/2/3U/I5KQKXWTHICK60WUZGCL7L
+/Game/__ExternalActors__/Lecture1-Exercise1/3/LY/G561UE38W5VFAZI4RIUQJF
+/Game/__ExternalActors__/Lecture1-Exercise1/9/MX/1FOOB61LHA9K8I40IPJEJL
+/Game/__ExternalActors__/Lecture1-Exercise1/D/C6/MR379RU0EO0J6LLYDKVHFA
+/Game/__ExternalActors__/Lecture1-Exercise1/B/SY/LIYMOTGJOV77TOJVS8DCYN
+/Game/__ExternalActors__/Lecture1-Exercise1/B/HQ/7BNRFZZAZHMJZ5XKT4Z529
+/Game/__ExternalActors__/Lecture1-Exercise1/4/9R/X524EYB1ZID1H3VX1HEK7I
+/Game/__ExternalActors__/Lecture1-Exercise1/0/DI/HCJHRXJT7PA7QK7W36FZBF
+/Game/__ExternalActors__/Lecture1-Exercise1/1/E5/PQUQZSTBLKQPLG3L5AUXVT
+/Game/__ExternalActors__/Lecture1-Exercise1/1/5Z/VMV992632N3Z9RTCRBXONZ
+/Game/__ExternalActors__/Lecture1-Exercise1/5/70/QDDFTJ0KWGBH3XJG61T8S9
+/Game/__ExternalActors__/Lecture1-Exercise1/8/0H/YJPS66VXFVFOWSN0EBHCW3
+/Game/__ExternalActors__/Lecture1-Exercise1/D/EL/B2ZRHEZ2ATUY3HWTF5UVE7
+/Game/__ExternalActors__/Lecture1-Exercise1/2/28/B8GQMHZG0X9478SXYTE8KH
+/Game/__ExternalActors__/Lecture1-Exercise1/9/I1/YBPERFAXWSU3P47EXOTKAL
+/Game/__ExternalActors__/Lecture1-Exercise1/D/64/CXPHI3WEAVJKLMFAG9RHGW
+/Game/__ExternalActors__/Lecture1-Exercise1/5/B0/T43Z50S58CNFG130BBFYVU
+/Game/__ExternalActors__/Lecture1-Exercise1/D/L9/S7HURCAJFBSHO3K2SS4TZ4
+/Game/__ExternalActors__/Lecture1-Exercise1/5/KN/0FECEPXOGC30M7FCT26FCE
+/Game/__ExternalActors__/Lecture1-Exercise1/4/GM/MXOO6KC6HWYTABWU2GAI75
+/Game/__ExternalActors__/Lecture1-Exercise1/3/EH/HM4VU9WXCZ3U61KMR31VTF
+/Game/__ExternalActors__/Lecture1-Exercise1/6/K2/33KN5DO8HF48KARV3JUCPU
+/Game/__ExternalActors__/Lecture1-Exercise1/C/NY/IBZYQU76FT7TN6QCBXBHQ2
+/Game/__ExternalActors__/Lecture1-Exercise1/3/R0/4JT11LP17EPZP7I26JUCQR
+/Game/__ExternalActors__/Lecture1-Exercise1/D/F5/3G07OGW5O8JBW54V8528B5
+/Game/__ExternalActors__/Lecture1-Exercise1/B/5F/70E140IXTUAJAM17Q5SIFD
+/Game/__ExternalActors__/Lecture1-Exercise1/2/VI/AQTHJAQHEI4725VPJHXSN4
+/Game/__ExternalActors__/Lecture1-Exercise1/0/Y3/ZZ8FSZSTLF736CHSQ32G81
+/Game/__ExternalActors__/Lecture1-Exercise1/A/JF/T87TQNXGX6PTZSNZ2D6HLK
+/Game/__ExternalActors__/Lecture1-Exercise1/C/V7/S76SED6WFMNKZFEJBULJ91
+/Game/__ExternalActors__/Lecture1-Exercise1/D/MT/EN9XWWKJEUFVN74WF4NK8V
+/Game/__ExternalActors__/Lecture1-Exercise1/0/QA/V326B2EGV85PFLOM2ZG67M
+/Game/__ExternalActors__/Lecture1-Exercise1/F/4Z/23KI0YX7ZJ0BBFII56XPI2
+/Game/__ExternalActors__/Lecture1-Exercise1/9/0D/Z2Q3PIMB31NRV2A0IUT1TZ
+/Game/__ExternalActors__/Lecture1-Exercise1/C/RI/HW00TC8LS27SG3AAJOUOTS
+/Game/__ExternalActors__/Lecture1-Exercise1/9/5K/ZH32V7KDN1OLOTM9ZMWQBM
+/Game/__ExternalActors__/Lecture1-Exercise1/4/AV/4T4GIGVIIGHK1HT4JXI91R
+/Game/__ExternalActors__/Lecture1-Exercise1/6/AR/IEYALSBRM4AKJIFZ0CGKXA
+/Game/__ExternalActors__/Lecture1-Exercise1/0/AX/DWFB1B54S6HVOJ33ZIGA6K
+/Game/__ExternalActors__/Lecture1-Exercise1/7/PP/NLA8OXDAJ1Y4CM4PMU8EEI
+/Game/__ExternalActors__/Lecture1-Exercise1/C/6G/HGTDZ0S3V9RLFCM54T4ZQD
+/Game/__ExternalActors__/Lecture1-Exercise1/C/C9/RTLAGMFHNK8QUWKEGM1VX4
+/Game/__ExternalActors__/Lecture1-Exercise1/0/9P/7KL6QCTBI9BCJS53O3M8FT
+/Game/__ExternalActors__/Lecture1-Exercise1/4/DW/E4AYI9ZHVC5HZ1NYZVTHG7
+/Game/__ExternalActors__/Lecture1-Exercise1/C/3E/UMYLXR463GSL9YZAONRPMY
+/Game/__ExternalActors__/Lecture1-Exercise1/6/RD/V1FDRADPB21YPY5JNT3JFA
+/Game/__ExternalActors__/Lecture1-Exercise1/3/L9/7AL7ACHZF6R8QNUN2CY7TG
+/Game/__ExternalActors__/Lecture1-Exercise1/7/DR/UWIGFPD05VJS4KMHK32NJL
+/Game/__ExternalActors__/Lecture1-Exercise1/6/R0/C8Q2Q0NV4JQU8GC4QR3VXQ
+/Game/__ExternalActors__/Lecture1-Exercise1/2/LJ/DYGICZXZAOT75ELJNRI910
+/Game/__ExternalActors__/Lecture1-Exercise1/7/RU/WHOVNPJS7NGM26EDGTAPQ1
+/Game/__ExternalActors__/Lecture1-Exercise1/E/MK/8864GEKTXP0O51E5C6NOE9
+/Game/__ExternalActors__/Lecture1-Exercise1/6/SD/T4YAZRWJRJ5OKZHNMD795D
+/Game/__ExternalActors__/Lecture1-Exercise1/C/68/095DMSWTUWDMECA34W1EC6
+/Game/__ExternalActors__/Lecture1-Exercise1/1/56/BPM5ZNJFXST31UYCGW1DAF
+/Game/__ExternalActors__/Lecture1-Exercise1/0/0B/3B5YA8HRUE7F13TWM78FHV
+/Game/__ExternalActors__/Lecture1-Exercise1/A/90/XOTL6WBMNBI38C713RHFEM
+/Game/__ExternalActors__/Lecture1-Exercise1/A/3R/G8HFF03U24YV0IABQGUOUQ
+/Game/__ExternalActors__/Lecture1-Exercise1/0/QU/EROB6INS4TDM6EZYK2XL5J
+/Game/__ExternalActors__/Lecture1-Exercise1/A/WK/5EDP96CARI5EJERPJ0X44R
+/Game/__ExternalActors__/Lecture1-Exercise1/E/OS/EMUWKO4MCDADU9XAPAQE3R
+/Game/__ExternalActors__/Lecture1-Exercise1/5/2R/MXPM09Y1CVK9C3QLOCVR14
+/Game/__ExternalActors__/Lecture1-Exercise1/8/3V/WR2QIDTBN0B8NS9FB3WY4B
+/Game/__ExternalActors__/Lecture1-Exercise1/5/YP/G46FVHDJIJ6H7ODK1EUDI3
+/Game/__ExternalActors__/Lecture1-Exercise1/A/YG/F2ZV9SATOJBT397GZA06WB
+/Game/__ExternalActors__/Lecture1-Exercise1/3/IR/BJNDLPRAI5GWKJI6I0GCBI
+/Game/__ExternalActors__/Lecture1-Exercise1/7/H9/WFY44SLOHDM0FIGZML2YTZ
+/Game/__ExternalActors__/Lecture1-Exercise1/D/V9/GINU0OV8UQ8ZGGY2EQ4EPI
+/Game/__ExternalActors__/Lecture1-Exercise1/E/VZ/A7HDVHT73ZCJDYAVTQFMSW
+/Game/__ExternalActors__/Lecture1-Exercise1/8/UI/GPBT6IMAPBUBM6AD7TI182
+/Game/__ExternalActors__/Lecture1-Exercise1/B/UV/S3MGV2VUTDRSI8YW20U9KF
+/Game/__ExternalActors__/Lecture1-Exercise1/5/R3/3GTRKTUM5IX6GEKWQMK89R
+/Game/__ExternalActors__/Lecture1-Exercise1/2/33/4TQJI0IOH9B2C7NMZYRKFZ
+/Game/__ExternalActors__/Lecture1-Exercise1/A/HN/TW1T39KMHOAYH67R32PPLY
+/Game/__ExternalActors__/Lecture1-Exercise1/9/F0/ZHO4IC8EF68DX7QHDPBRC3
+/Game/__ExternalActors__/Lecture1-Exercise1/1/YO/SJCFPDAUCMU4H6YHUBMZ66
+/Game/__ExternalActors__/Lecture1-Exercise1/8/J8/6482SZJZ20E77NJQRF41WZ
+/Game/__ExternalActors__/Lecture1-Exercise1/B/IP/AU3XPECQX98D0640HIP211
+/Game/__ExternalActors__/Lecture1-Exercise1/8/VO/92NDDXIWV9G8BTOKVSZQNH
+/Game/__ExternalActors__/Lecture1-Exercise1/C/EL/JTWQMLFRCRSC4QHBDX3S11
+/Game/__ExternalActors__/Lecture1-Exercise1/4/PI/ADXAJ8UJQWWEPKYXJTKUEA
+/Game/__ExternalActors__/Lecture1-Exercise1/9/O2/GCCW0GIG5JU5WPIJ7PVLYO
+/Game/__ExternalActors__/Lecture1-Exercise1/E/QE/J2KGC656NTG3RKXEVKYLBL
+/Game/__ExternalActors__/Lecture1-Exercise1/3/XY/4H2F4D2K9XYNGYFTTRCOMI
+/Game/__ExternalActors__/Lecture1-Exercise1/2/OJ/HIGSENKTI9C13PWQDB0KGH
+/Game/__ExternalActors__/Lecture1-Exercise1/D/FS/S7L1HNMYYHU1N9C25K8SUC
+/Game/__ExternalActors__/Lecture1-Exercise1/7/U4/90W24MCNU5GORKJ6LSMDEW
+/Game/__ExternalActors__/Lecture1-Exercise1/A/4S/WSNGRZTAX5ZIGENNA1LV8P
+/Game/__ExternalActors__/Lecture1-Exercise1/0/76/CG0UGS4S7XZ53EGQIJXKTX
+/Game/__ExternalActors__/Lecture1-Exercise1/5/HK/ABISB8WYG0DZ9XII304XTC
+/Game/__ExternalActors__/Lecture1-Exercise1/F/0C/83UKHFHPV0WMICYUMJ6D7Q
+/Game/__ExternalActors__/Lecture1-Exercise1/7/5W/5PR63V96HO8IRRWNJSC652
+/Game/__ExternalActors__/Lecture1-Exercise1/E/1B/FTDZMQ4DWUVPXCXGIG6623
+/Game/__ExternalActors__/Lecture1-Exercise1/1/76/GHTQXEOERV5J15O9WSNZ9F
+/Game/__ExternalActors__/Lecture1-Exercise1/6/O8/R0GR0ZMDEJ06Q2AOPY3W14
+/Game/__ExternalActors__/Lecture1-Exercise1/4/98/EME2WAWXQDBY9KGXHXFEOX
+/Game/__ExternalActors__/Lecture1-Exercise1/9/AX/SBEOH8DPKHTBP97M1HNT36
+/Game/__ExternalActors__/Lecture1-Exercise1/3/03/WOUJUEUCYYGEUOX5WWL2AB
+/Game/__ExternalActors__/Lecture1-Exercise1/A/UN/LGASLPDHV9IE0X4MQ7DBZ4
+/Game/__ExternalActors__/Lecture1-Exercise1/8/9K/TDQ3VUQP97225HLZVSQFIV
+/Game/__ExternalActors__/Lecture1-Exercise1/9/VH/HFZR1PDRH2NO5KMN69QAMK
+/Game/__ExternalActors__/Lecture1-Exercise1/8/QC/AR0ZS7DVKOLE6MP2R32KE8
+/Game/__ExternalActors__/Lecture1-Exercise1/0/Q9/FJM2J5ARMI6O0DIFSTYK60
+/Game/__ExternalActors__/Lecture1-Exercise1/D/0P/3EI9UQ2OZZ01GWCO26LH53
+/Game/__ExternalActors__/Lecture1-Exercise1/8/WW/9AQB11JW93XOGWKYMHYF38
+/Game/__ExternalActors__/Lecture1-Exercise1/4/U2/SSSLOJS1PTIQQFCU5PYFS3
+/Game/__ExternalActors__/Lecture1-Exercise1/0/GQ/73WFBWQJKZ2MW3GYBJBDM7
+/Game/__ExternalActors__/Lecture1-Exercise1/D/61/RXOA1CCO96YU070K89SYD5
+/Game/__ExternalActors__/Lecture1-Exercise1/E/19/P4AU9717VT20OM19YJ2D1R
+/Game/__ExternalActors__/Lecture1-Exercise1/1/VM/3DQ4EQCFQMUMD42GPZ632Y
+/Game/__ExternalActors__/Lecture1-Exercise1/1/B0/W51Q0XP7EN2ETC1L2C9E47
+/Game/__ExternalActors__/Lecture1-Exercise1/A/XF/MD2RTKWENDPZGKCYR3WQAQ
+/Game/__ExternalActors__/Lecture1-Exercise1/1/BB/CA4RM5SM5S99VV5PY4G2SS
+/Game/__ExternalActors__/Lecture1-Exercise1/7/QB/MX162VO92GLXM0H9JE0KU2
+/Game/__ExternalActors__/Lecture1-Exercise1/3/2L/5O0JN3GEAWB9TX89SCE36J
+/Game/__ExternalActors__/Lecture1-Exercise1/C/V2/3ZVLC3GIKRAAHBDE7R1CGU
+/Game/__ExternalActors__/Lecture1-Exercise1/A/I9/C7KC6C4IMEWO75U3IALRXQ
+/Game/__ExternalActors__/Lecture1-Exercise1/4/DZ/L5NXAH4DKZD5IRR50CHLEL
+/Game/__ExternalActors__/Lecture1-Exercise1/1/48/AXPW9PXGZKLHXNLVXIVN4R
+/Game/__ExternalActors__/Lecture1-Exercise1/D/3A/3W1WB1YTV4O3ROW6CQXHQ4
+/Game/__ExternalActors__/Lecture1-Exercise1/3/VC/77UHXR2U1WH5DDJBIR2IVZ
+/Game/__ExternalActors__/Lecture1-Exercise1/5/4T/XJWX88I1L1GHGU04JJN9EW
+/Game/__ExternalActors__/Lecture1-Exercise1/D/7R/7T0TX9AP91466CZUTGTBVD
+/Game/__ExternalActors__/Lecture1-Exercise1/2/P8/UINFERILKOPR5O94HOJ15A
+/Game/__ExternalActors__/Lecture1-Exercise1/E/NV/1AQBC9ZQMV6HR78TAA925F
+/Game/__ExternalObjects__/Lecture1-Exercise1/9/V6/TEQ943E2IS8Z8LXLEXKZL4
+/Game/__ExternalActors__/Lecture1-Exercise1/1/PU/7AIC0G8K7XCLKMYC7V7Q02
+/Game/__ExternalObjects__/Lecture1-Exercise1/C/7W/R1QT8AKCOLGXCXAG9M563C
+/Game/__ExternalObjects__/Lecture1-Exercise1/B/NE/8Z70L2P2UZFKAOAS5EZZLH
+/Game/__ExternalObjects__/Lecture1-Exercise1/2/RY/KU5GGUTOK00KGUKKWKYGZS
+/Game/__ExternalObjects__/Lecture1-Exercise1/8/M9/5XGTFSJGNNZXUMIYC0YZPT
+/Game/__ExternalObjects__/Lecture1-Exercise1/2/CH/J93GX0KWZNKVWY6G9DWN5R
+/Game/__ExternalObjects__/Lecture1-Exercise1/6/VO/9ZGJZG95JO5QCQ1DF44QEU
+/Game/__ExternalObjects__/Lecture1-Exercise1/9/GU/IVZ16KSSR3VMXF22U1IML0
+/Game/__ExternalObjects__/Lecture1-Exercise1/B/G3/55VFSJQQFRZKY8S4ULTP1P
+/Game/__ExternalObjects__/Lecture1-Exercise1/5/M3/URU8SC3JJ7W4JA04KDI9YE
+/Game/__ExternalObjects__/Lecture1-Exercise1/6/MM/HRNBSWQXTSC2KKNVYMVX3Z
+/Game/__ExternalObjects__/Lecture1-Exercise1/7/IA/JN09HOB4SSBARLWAWVQFBB
+/Game/__ExternalObjects__/Lecture1-Exercise1/5/9N/XA3UYP6N1E0RBPKSL5ABYN
+/Game/__ExternalObjects__/Lecture1-Exercise1/1/BN/Q5UFIML97J9HC50QJ6DT2V
+/Game/__ExternalObjects__/Lecture1-Exercise1/6/BI/6NK5Q3OE8UTJTTKKQRZ47L
+/Game/__ExternalObjects__/Lecture1-Exercise1/C/SA/836FE5D3YW78AM0GLY70MJ
+/Game/__ExternalObjects__/Lecture1-Exercise1/3/ZO/B8RAD1L9TP6AR3N9TVT02Y
+/Game/__ExternalObjects__/Lecture1-Exercise1/2/T0/ICG7VPFLMAF1NCM77V3ZL3
+/Game/__ExternalObjects__/Lecture1-Exercise1/C/QC/K4LEI9HOTFGMDBCDR75JD7
+/Game/__ExternalObjects__/Lecture1-Exercise1/8/X1/11PKRLM305SF2WVAYLPUG5
+/Game/__ExternalObjects__/Lecture1-Exercise1/3/TS/CXONP8CVUI2Q1TY5FT5ADY
+/Game/__ExternalObjects__/Lecture1-Exercise1/0/V6/EKBWKHE9YSTXTOKFQUNBLL
+/Game/__ExternalObjects__/Lecture1-Exercise1/C/4R/XV675RZ1Y5579VAT68ZVQZ
+/Game/__ExternalObjects__/Lecture1-Exercise1/7/Z9/E6VPX6KCU2EYQL0XOMOKFP
+/Game/__ExternalObjects__/Lecture1-Exercise1/B/X4/PJZO0W0AV3Z6GOOXWRMCPM
+/Game/__ExternalObjects__/Lecture1-Exercise1/E/NJ/294FV81AB1D11IOW76PLV9
+/Game/__ExternalObjects__/Lecture1-Exercise1/7/CG/PO5WPW4XXH5137XST7YBCT
+/Game/__ExternalObjects__/Lecture1-Exercise1/C/DK/NP6OJ7IRY5GMTY6HC38W2V
+/Game/__ExternalObjects__/Lecture1-Exercise1/7/76/8QK1OVA9PR6VBVUK0FNOC0
+/Game/__ExternalObjects__/Lecture1-Exercise1/2/E9/PVTHXOQ3RR5P90D9CRG0HT
+/Game/__ExternalObjects__/Lecture1-Exercise1/C/ES/UCU5LWTSPJ3MHZQQJS868H
+/Game/__ExternalObjects__/Lecture1-Exercise1/4/4D/A2JQZK0SJQU806J48Y2HWQ
+/Game/__ExternalObjects__/Lecture1-Exercise1/7/WM/60EZJNH55NHOJR1P2PX5C6
+/Game/__ExternalObjects__/Lecture1-Exercise1/5/2C/MKGFYP32MKERJK6N9VQUQW
+/Game/__ExternalObjects__/Lecture1-Exercise1/D/ZM/LJOAKPPOW47M01FMKU93VE
+/Game/__ExternalObjects__/Lecture1-Exercise1/8/47/5MZVYTPX59QMEWB1MW39DY
+/Game/__ExternalObjects__/Lecture1-Exercise1/5/V2/3DHKZK2WCUKLVSDWBC4IW9
+/Game/__ExternalObjects__/Lecture1-Exercise1/6/2X/QDMXQ57H2U7E7WF1P9PM9L
+/Game/__ExternalObjects__/Lecture1-Exercise1/7/OQ/KR6X3SIPE5SCMTP49W7JWF
+/Game/__ExternalObjects__/Lecture1-Exercise1/2/G2/8EW9UOO2Y1JFPX68Q8CKFG
+/Game/__ExternalObjects__/Lecture1-Exercise1/0/T0/LWJVBCA5HXSF3KZKZZS2PH
+/Game/__ExternalObjects__/Lecture1-Exercise1/8/31/KCNDP4OT8IDGN1MVR4LAPQ
+/Game/__ExternalObjects__/Lecture1-Exercise1/C/2B/4ZYL9GTVZ6NSZZLR7H6LLL
+/Game/__ExternalObjects__/Lecture1-Exercise1/E/QJ/GBT0KPSRS58T8IQ5K3Z42V
+/Game/__ExternalObjects__/Lecture1-Exercise1/0/SD/YQB61D2MMQPEVUNDM4RR8A
+/Game/__ExternalObjects__/Lecture1-Exercise1/3/5O/GIHGR82WT1KU4C5NM6OZTX
+/Game/__ExternalObjects__/Lecture1-Exercise1/D/2C/8CZU8B674N0X9IOPQEFT0Q
+/Game/__ExternalObjects__/Lecture1-Exercise1/2/S2/8E93YVCOHN2Q56U3UPLAWH
+/Game/__ExternalObjects__/Lecture1-Exercise1/3/LK/2BW4P4I7YL64CGXC19A9B2
+/Game/__ExternalObjects__/Lecture1-Exercise1/1/3I/O62MI6Q4QI64V7MYXPAVJ2
+/Game/__ExternalObjects__/Lecture1-Exercise1/8/RG/FSN07XR5482S9DFAJ22X5C
+/Game/__ExternalObjects__/Lecture1-Exercise1/0/W0/HNX14LOBT589F8Z2794J2F
+/Game/__ExternalObjects__/Lecture1-Exercise1/B/IN/6RX5MQ9BDT8VAVOOTJZKWB
+/Game/__ExternalObjects__/Lecture1-Exercise1/4/30/QDVNM9IBGNN78EUE48QM59
+/Game/__ExternalObjects__/Lecture1-Exercise1/B/RL/X1NNU5G5RV3P3VW5MCQ0KY
+/Game/__ExternalObjects__/Lecture1-Exercise1/6/NB/71THE6Y0GQKPRNQRRT6QZM
+/Game/__ExternalObjects__/Lecture1-Exercise1/5/QO/64WL6BGSWDPXHJMKHJSQL4
+/Game/__ExternalObjects__/Lecture1-Exercise1/1/SS/PP6BDCNFKG5O81QWP9IYR5
+/Game/__ExternalObjects__/Lecture1-Exercise1/B/FZ/1KHPHJCGFQNK5AF1HAN3CL
+/Game/__ExternalObjects__/Lecture1-Exercise1/D/N6/HQNSGDCSJXWTL95QX0TYZB
+/Game/__ExternalObjects__/Lecture1-Exercise1/5/PI/CMDJBGNT062NVLYQWTVCPY
+/Game/__ExternalObjects__/Lecture1-Exercise1/9/HG/JVGNA7NO3DUJ0MJC3OIGVI
+/Game/__ExternalObjects__/Lecture1-Exercise1/2/T1/IOR7O2NT3SBZA0SZ90XRDJ
+/Game/__ExternalObjects__/Lecture1-Exercise1/2/R6/OC22FIN8FERX2RJ2TN2DD5
+/Game/__ExternalObjects__/Lecture1-Exercise1/9/CV/ED630X700BCITUEJUX3SX3
+/Game/__ExternalObjects__/Lecture1-Exercise1/A/5F/76UM058S10FBPC0V3T1RWS
+/Game/__ExternalObjects__/Lecture1-Exercise1/2/PB/1DQFM4S4MQRLH50HTBL2L6
+/Game/__ExternalObjects__/Lecture1-Exercise1/A/YT/F9BDKUGDL5ZQQZO2RYT7SJ
+/Game/__ExternalObjects__/Lecture1-Exercise1/B/IL/E3AGRUYR4FK27TOYCW3D0K
+/Game/__ExternalObjects__/Lecture1-Exercise1/F/2B/WQB34IDV2PLGULRR51CU31
+/Game/__ExternalObjects__/Lecture1-Exercise1/6/7W/NMXJOVMF9Z0UD35XX9XIGW
+/Game/__ExternalObjects__/Lecture1-Exercise1/0/JQ/EDOXYIVH7VTUBZ94D49NV3
+/Game/__ExternalObjects__/Lecture1-Exercise1/4/IN/TPOV6K2XZ9962VGB0Q1SUQ
+/Game/__ExternalObjects__/Lecture1-Exercise1/0/97/5LEFZ3EW50UVVOYCDZBEZQ
+/Game/__ExternalObjects__/Lecture1-Exercise1/0/L6/STDC36DYNH9W6XE19E8F2C
+/Game/__ExternalObjects__/Lecture1-Exercise1/9/9P/C1LX6ZQDMD82BLEJ1R0VES
+/Game/__ExternalObjects__/Lecture1-Exercise1/2/GL/PEHV3XSUBPZINS7P98UFJY
+/Game/__ExternalObjects__/Lecture1-Exercise1/D/W1/MISURRU3841OE3THYKIWMT
+/Game/__ExternalObjects__/Lecture1-Exercise1/8/57/XZGSO2X7RUK2XIGTUR0WEC
+/Game/__ExternalObjects__/Lecture1-Exercise1/2/C7/OI27ISE63LKZ0WRLN1E9Y3
+/Game/__ExternalObjects__/Lecture1-Exercise1/8/58/OJE85XFB7HSFRVIABB2YQK
+/Game/__ExternalObjects__/Lecture1-Exercise1/D/8L/ZI7P7E80CEK29NWJVN7MFT
+/Game/__ExternalObjects__/Lecture1-Exercise1/5/7D/VBLO0EWEKHDWNL7AAN5I50
+/Game/__ExternalObjects__/Lecture1-Exercise1/9/UI/BMPMBPUTLT9D1AX2PSR5ST
+/Game/__ExternalObjects__/Lecture1-Exercise1/6/KJ/MLIQOUFZTZQ6UR7PFZ9YOJ
+/Game/__ExternalObjects__/Lecture1-Exercise1/E/8X/4G5SZ606NAS0Z8SKXKYVIR
+/Game/__ExternalObjects__/Lecture1-Exercise1/8/R8/AEUOQGV0ZD3ZZL1GBCIU49
+/Game/__ExternalObjects__/Lecture1-Exercise1/8/D5/4YXZ4O1HJHTYU2XAAIXU6K
+/Game/__ExternalObjects__/Lecture1-Exercise1/D/C8/EM52C1LRI4KJXZS6YPUTIP
+/Game/__ExternalObjects__/Lecture1-Exercise1/5/PG/6B3Y2OU104E6A3LBCVTIHJ
+/Game/__ExternalObjects__/Lecture1-Exercise1/7/FP/LTRGLTLR98THK8PAXZK8MT
+/Game/__ExternalObjects__/Lecture1-Exercise1/E/JU/4OS9PMIRWVJFOLJM6EO0LN
+/Game/__ExternalObjects__/Lecture1-Exercise1/D/ML/GKM1BBAFQV20B3DD37Z2A6
+/Game/__ExternalObjects__/Lecture1-Exercise1/8/70/MFNIOEIQ488EZ79FOB0XU4
+/Game/__ExternalObjects__/Lecture1-Exercise1/5/T6/4TZFJKC8G1Y2Q1DGT1Z56M
+/Game/__ExternalObjects__/Lecture1-Exercise1/1/DH/7PFBFRRDO12JH86QXOZRMD
+/Game/__ExternalObjects__/Lecture1-Exercise1/7/SE/BJQ1197AD5U0LHGNGF7QJE
+/Game/__ExternalObjects__/Lecture1-Exercise1/5/G4/GXMRO178BAI4ALVMYTQR73
+/Game/__ExternalObjects__/Lecture1-Exercise1/A/UO/RLGLFVGZD5QNQXUYI2HO55
+/Game/__ExternalObjects__/Lecture1-Exercise1/B/NE/SBSM3PJ422TY9EBJIBOJXR
+/Game/__ExternalObjects__/Lecture1-Exercise1/B/YP/NX60WJUI2IK581AL7UNEJY
+/Game/__ExternalObjects__/Lecture1-Exercise1/8/ZI/DXV10BDXYI2ES6O3GI5H9B
+/Game/__ExternalObjects__/Lecture1-Exercise1/9/47/E67UEZSCZA8AEVKBH2XI89
+/Game/__ExternalObjects__/Lecture1-Exercise1/9/4G/R96TC3J240QQQQZ5NSEE6L
+/Game/__ExternalObjects__/Lecture1-Exercise1/E/VZ/RJ99HBWP5WJANISHL6HSBD
+/Game/__ExternalObjects__/Lecture1-Exercise1/9/VP/9J3ZE12B8STUHQHH5TH3KM
+/Game/__ExternalObjects__/Lecture1-Exercise1/A/X5/3EGAOE725U3I8H9KMYEYD2
+/Game/__ExternalObjects__/Lecture1-Exercise1/5/AL/BV3ALGKYCCBBZEPVFO8TEY
+/Game/__ExternalObjects__/Lecture1-Exercise1/D/2J/CYX4WV0P2OOMQOY33GVISO
+/Game/__ExternalObjects__/Lecture1-Exercise1/D/KD/4BTHBWN4DVQN5FEXBUYAZA
+/Game/__ExternalObjects__/Lecture1-Exercise1/0/MN/YQURRRKGWK7YCNB5FVA9ND
+/Game/__ExternalObjects__/Lecture1-Exercise1/7/V9/4YNGDJ7P53WCUHYXV1CMM8
+/Game/__ExternalObjects__/Lecture1-Exercise1/1/KG/RFDLG8V9LV33MK93SHTF8A
+/Game/__ExternalObjects__/Lecture1-Exercise1/B/KZ/5YOVDRDHVZGTRD75CY6XMZ
+/Game/__ExternalObjects__/Lecture1-Exercise1/2/1S/40IE48KLCJ7VSRM6RY0DPI
+/Game/__ExternalObjects__/Lecture1-Exercise1/3/XJ/FLB0LIWPVHCS8PW9W2VFCX
+/Game/__ExternalObjects__/Lecture1-Exercise1/6/OD/Y9AT8NYL3EQSVATFCC0XET
+/Game/__ExternalObjects__/Lecture1-Exercise1/0/1I/75P4KOUD7BXV09DBRVUYZM
+/Game/__ExternalObjects__/Lecture1-Exercise1/2/DE/CCBU29PJ8ZD59210M4EOXV
+/Game/__ExternalObjects__/Lecture1-Exercise1/6/QV/7ILA9V4JAB9TFN727N0VS8
+/Game/__ExternalObjects__/Lecture1-Exercise1/5/A6/6PEVRB2Q3YZ5SKSZRHWN6A
+/Game/__ExternalObjects__/Lecture1-Exercise1/3/AA/AKZ6OAOTUQ9C4FXGKWWAOV
+/Game/__ExternalObjects__/Lecture1-Exercise1/B/KA/7Q6D1DWRUGEU9C6HHGB6EM
+/Game/__ExternalObjects__/Lecture1-Exercise1/B/DJ/ZEAYJ6JADUHMVVHH8SLT2B
+/Game/__ExternalObjects__/Lecture1-Exercise1/3/2X/N8TFD7MR1PIBGTIGVHO20N
+/Game/__ExternalObjects__/Lecture1-Exercise1/A/9E/9N8K5629D83FTC39J1N5KK
+/Game/__ExternalObjects__/Lecture1-Exercise1/9/G4/8UK4Z2NGSLTBPPBIAT8NL8
+/Game/__ExternalObjects__/Lecture1-Exercise1/D/P6/BKBVNXLFYJH86HTGEL0VYE
+/Game/__ExternalObjects__/Lecture1-Exercise1/6/HL/HBD291VTA2KX2GIA1ILOZZ
+/Game/__ExternalObjects__/Lecture1-Exercise1/7/83/3RXRI74PKW7KGQ50BUEI3E
+/Game/__ExternalObjects__/Lecture1-Exercise1/B/H4/UIF9R2LRWT62S2T1DK5IDS
+/Game/__ExternalObjects__/Lecture1-Exercise1/8/AU/TI5HM5G50G0CV2TLPGU2AS
+/Game/__ExternalObjects__/Lecture1-Exercise1/6/WJ/K1MXZUPGT5XPORCP2J3Z9L
+/Game/__ExternalObjects__/Lecture1-Exercise1/4/V1/CPZWJWKDKLR6VBUVU9PHF2
+/Game/__ExternalObjects__/Lecture1-Exercise1/4/5K/FKAF68SEADWDURHLM9QSYM
+/Game/__ExternalObjects__/Lecture1-Exercise1/4/43/FTD4RYYRPDP7WIZVFE8DLF
+/Game/__ExternalObjects__/Lecture1-Exercise1/5/YE/KCV60URB0CCD3PS5F2UBB6
+/Game/__ExternalObjects__/Lecture1-Exercise1/A/P0/Q7C8S0GHNVSJU4AALN2TE0
+[2025.09.02-17.43.33:023][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.02-17.43.33:155][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.02-17.43.33:190][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.02-17.43.33:217][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.02-17.43.33:219][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Lecture1-Exercise1_HLOD0_Instancing] ([1] browsable assets)...
+[2025.09.02-17.43.33:219][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lecture1-Exercise1_HLOD0_Instancing]
+[2025.09.02-17.43.33:220][923]LogSavePackage: Moving output files for package: /Game/Lecture1-Exercise1_HLOD0_Instancing
+[2025.09.02-17.43.33:220][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/Lecture1-Exercise1_HLOD0_Instanc9CD1587648C415C28E44DC97270B0308.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/Lecture1-Exercise1_HLOD0_Instancing.uasset'
+[2025.09.02-17.43.33:225][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/2/79/BDCNOKXK25T85MDWEA1QQ8
+[2025.09.02-17.43.33:225][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/BDCNOKXK25T85MDWEA1QQ85C3F2AEB48E787F8EA93CC9BD2150D98.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/2/79/BDCNOKXK25T85MDWEA1QQ8.uasset'
+[2025.09.02-17.43.33:237][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Lecture1-Exercise1/7/2Y/6UTBMQPIJ81DB46SOYMB8J] ([1] browsable assets)...
+[2025.09.02-17.43.33:238][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Lecture1-Exercise1/7/2Y/6UTBMQPIJ81DB46SOYMB8J]
+[2025.09.02-17.43.33:239][923]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Lecture1-Exercise1/7/2Y/6UTBMQPIJ81DB46SOYMB8J
+[2025.09.02-17.43.33:239][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/6UTBMQPIJ81DB46SOYMB8J6FFDB4934F44CDFCD14C87A2817DA581.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalObjects__/Lecture1-Exercise1/7/2Y/6UTBMQPIJ81DB46SOYMB8J.uasset'
+[2025.09.02-17.43.33:243][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Lecture1-Exercise1/0/IK/QUSXXA9YYO4RMFUEIJB4X2] ([1] browsable assets)...
+[2025.09.02-17.43.33:243][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Lecture1-Exercise1/0/IK/QUSXXA9YYO4RMFUEIJB4X2]
+[2025.09.02-17.43.33:244][923]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Lecture1-Exercise1/0/IK/QUSXXA9YYO4RMFUEIJB4X2
+[2025.09.02-17.43.33:244][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/QUSXXA9YYO4RMFUEIJB4X20FF49AC243F07D9F35606E89D70741F9.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalObjects__/Lecture1-Exercise1/0/IK/QUSXXA9YYO4RMFUEIJB4X2.uasset'
+[2025.09.02-17.43.33:246][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Lecture1-Exercise1/E/VB/WGVQMA5YBDI0WVNSESMN2S] ([1] browsable assets)...
+[2025.09.02-17.43.33:246][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Lecture1-Exercise1/E/VB/WGVQMA5YBDI0WVNSESMN2S]
+[2025.09.02-17.43.33:247][923]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Lecture1-Exercise1/E/VB/WGVQMA5YBDI0WVNSESMN2S
+[2025.09.02-17.43.33:247][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/WGVQMA5YBDI0WVNSESMN2SCD3E0D35458D80C5F66CACB469977EF4.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalObjects__/Lecture1-Exercise1/E/VB/WGVQMA5YBDI0WVNSESMN2S.uasset'
+[2025.09.02-17.43.33:250][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Lecture1-Exercise1/9/O7/B76PG8OI82CM69QZMBQS1X] ([1] browsable assets)...
+[2025.09.02-17.43.33:250][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Lecture1-Exercise1/9/O7/B76PG8OI82CM69QZMBQS1X]
+[2025.09.02-17.43.33:251][923]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Lecture1-Exercise1/9/O7/B76PG8OI82CM69QZMBQS1X
+[2025.09.02-17.43.33:251][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/B76PG8OI82CM69QZMBQS1X2573250447341D8A5FAB27A4771132E0.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalObjects__/Lecture1-Exercise1/9/O7/B76PG8OI82CM69QZMBQS1X.uasset'
+[2025.09.02-17.43.33:254][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Lecture1-Exercise1/A/EV/I96GF0JWBAPFRNEAZUTXLJ] ([1] browsable assets)...
+[2025.09.02-17.43.33:254][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Lecture1-Exercise1/A/EV/I96GF0JWBAPFRNEAZUTXLJ]
+[2025.09.02-17.43.33:255][923]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Lecture1-Exercise1/A/EV/I96GF0JWBAPFRNEAZUTXLJ
+[2025.09.02-17.43.33:255][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/I96GF0JWBAPFRNEAZUTXLJCF3DA36E4AC6AB8FDD270ABDFBAA343C.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalObjects__/Lecture1-Exercise1/A/EV/I96GF0JWBAPFRNEAZUTXLJ.uasset'
+[2025.09.02-17.43.33:257][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Lecture1-Exercise1/E/QT/17EDIOOQ947ZKYBBL1G5V9] ([1] browsable assets)...
+[2025.09.02-17.43.33:257][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Lecture1-Exercise1/E/QT/17EDIOOQ947ZKYBBL1G5V9]
+[2025.09.02-17.43.33:258][923]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Lecture1-Exercise1/E/QT/17EDIOOQ947ZKYBBL1G5V9
+[2025.09.02-17.43.33:258][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/17EDIOOQ947ZKYBBL1G5V935355F9940FF9495B3FDFBAF79076E55.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalObjects__/Lecture1-Exercise1/E/QT/17EDIOOQ947ZKYBBL1G5V9.uasset'
+[2025.09.02-17.43.33:349][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/9/9G/GKXPJGO0FB8ZYP8FKM3212
+[2025.09.02-17.43.33:349][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/GKXPJGO0FB8ZYP8FKM3212AE2A8D674BFB8BB12B633CB869F09FD0.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/9/9G/GKXPJGO0FB8ZYP8FKM3212.uasset'
+[2025.09.02-17.43.33:353][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/A/BB/EMCH0ZM7OWPBLPD6VW7UJT
+[2025.09.02-17.43.33:353][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/EMCH0ZM7OWPBLPD6VW7UJT4FBC0B7C4810D43F1B4769BF2105DE55.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/A/BB/EMCH0ZM7OWPBLPD6VW7UJT.uasset'
+[2025.09.02-17.43.33:359][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/6/VC/7NKMSQH1M4W61KGC5RZ24H
+[2025.09.02-17.43.33:359][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/7NKMSQH1M4W61KGC5RZ24H7380421A4B119ABADDD4679FE04AA75D.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/6/VC/7NKMSQH1M4W61KGC5RZ24H.uasset'
+[2025.09.02-17.43.33:362][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/9/WO/IHOXE7Q8OZHS3CCW9OE98M
+[2025.09.02-17.43.33:362][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/IHOXE7Q8OZHS3CCW9OE98M8E5A92CE4484BA4F9D11C58B207FE0DD.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/9/WO/IHOXE7Q8OZHS3CCW9OE98M.uasset'
+[2025.09.02-17.43.33:366][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/7/B0/SX92C96A807FVSKQGW9IGK
+[2025.09.02-17.43.33:366][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/SX92C96A807FVSKQGW9IGKA6CEF4BB41D1E384080B72837564609B.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/7/B0/SX92C96A807FVSKQGW9IGK.uasset'
+[2025.09.02-17.43.33:369][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/3/8C/9GQLX7L7V4WR7P254V0HWD
+[2025.09.02-17.43.33:369][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/9GQLX7L7V4WR7P254V0HWD7296F0A4496B20A98FC99C93A9112D44.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/3/8C/9GQLX7L7V4WR7P254V0HWD.uasset'
+[2025.09.02-17.43.33:373][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/C/O2/CZU6VRT7LAF5554AVDBFX8
+[2025.09.02-17.43.33:373][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/CZU6VRT7LAF5554AVDBFX8F500A9F24EF7E7174F511F808B4FA4FB.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/C/O2/CZU6VRT7LAF5554AVDBFX8.uasset'
+[2025.09.02-17.43.33:378][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/E/YK/VG453SF7R2UFMUK80PVJKY
+[2025.09.02-17.43.33:378][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/VG453SF7R2UFMUK80PVJKY96EDC25F42B4A54720530390D4CE231C.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/E/YK/VG453SF7R2UFMUK80PVJKY.uasset'
+[2025.09.02-17.43.33:383][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/C/HP/9FCVQK948R4CBB2K7PB5K2
+[2025.09.02-17.43.33:383][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/9FCVQK948R4CBB2K7PB5K2F26CF68C4CACFA35AE577AAD5DD9869E.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/C/HP/9FCVQK948R4CBB2K7PB5K2.uasset'
+[2025.09.02-17.43.33:401][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/0/78/XGE7HQJHH8MC7TMNZBLD5U
+[2025.09.02-17.43.33:401][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/XGE7HQJHH8MC7TMNZBLD5UAB8916FD438064D565753589FFE7FABF.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/0/78/XGE7HQJHH8MC7TMNZBLD5U.uasset'
+[2025.09.02-17.43.33:418][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/D/48/ZM1JUI6K2554DB9MTJMJ62
+[2025.09.02-17.43.33:419][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/ZM1JUI6K2554DB9MTJMJ626E44C31348FD911C0EF05AA9A89AE1CD.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/D/48/ZM1JUI6K2554DB9MTJMJ62.uasset'
+[2025.09.02-17.43.33:439][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/A/7N/0Z4H06ECRURRDO5DPVODQ3
+[2025.09.02-17.43.33:439][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/0Z4H06ECRURRDO5DPVODQ3E7A1504341446A51BF5553B98B8C124F.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/A/7N/0Z4H06ECRURRDO5DPVODQ3.uasset'
+[2025.09.02-17.43.33:458][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/2/3U/I5KQKXWTHICK60WUZGCL7L
+[2025.09.02-17.43.33:458][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/I5KQKXWTHICK60WUZGCL7LFBA150E54675CD0BAC6BD4916EE661CF.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/2/3U/I5KQKXWTHICK60WUZGCL7L.uasset'
+[2025.09.02-17.43.33:476][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/3/LY/G561UE38W5VFAZI4RIUQJF
+[2025.09.02-17.43.33:476][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/G561UE38W5VFAZI4RIUQJFAA5465394D44711D84B80F81CF271236.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/3/LY/G561UE38W5VFAZI4RIUQJF.uasset'
+[2025.09.02-17.43.33:495][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/9/MX/1FOOB61LHA9K8I40IPJEJL
+[2025.09.02-17.43.33:496][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/1FOOB61LHA9K8I40IPJEJLFF708E9740F2C611B52D3E9CF522E150.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/9/MX/1FOOB61LHA9K8I40IPJEJL.uasset'
+[2025.09.02-17.43.33:513][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/D/C6/MR379RU0EO0J6LLYDKVHFA
+[2025.09.02-17.43.33:513][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/MR379RU0EO0J6LLYDKVHFA9711CE704206B7874B9357811E375622.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/D/C6/MR379RU0EO0J6LLYDKVHFA.uasset'
+[2025.09.02-17.43.33:537][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/B/SY/LIYMOTGJOV77TOJVS8DCYN
+[2025.09.02-17.43.33:537][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/LIYMOTGJOV77TOJVS8DCYN0EFCD6FE4EB45D129FF838922AC4F2DB.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/B/SY/LIYMOTGJOV77TOJVS8DCYN.uasset'
+[2025.09.02-17.43.33:559][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/B/HQ/7BNRFZZAZHMJZ5XKT4Z529
+[2025.09.02-17.43.33:559][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/7BNRFZZAZHMJZ5XKT4Z5296D7DE9284DC0322ED21E49BFC715A2E8.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/B/HQ/7BNRFZZAZHMJZ5XKT4Z529.uasset'
+[2025.09.02-17.43.33:576][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/4/9R/X524EYB1ZID1H3VX1HEK7I
+[2025.09.02-17.43.33:577][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/X524EYB1ZID1H3VX1HEK7IB3EB11DA47F4015355A8AC8F73D947CE.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/4/9R/X524EYB1ZID1H3VX1HEK7I.uasset'
+[2025.09.02-17.43.33:598][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/0/DI/HCJHRXJT7PA7QK7W36FZBF
+[2025.09.02-17.43.33:598][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/HCJHRXJT7PA7QK7W36FZBFB6EEA7004FE40DB15D9B99B0DAAC1700.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/0/DI/HCJHRXJT7PA7QK7W36FZBF.uasset'
+[2025.09.02-17.43.33:623][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/1/E5/PQUQZSTBLKQPLG3L5AUXVT
+[2025.09.02-17.43.33:623][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/PQUQZSTBLKQPLG3L5AUXVTFEB1370045775CCBCCC3CD84133DF9FA.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/1/E5/PQUQZSTBLKQPLG3L5AUXVT.uasset'
+[2025.09.02-17.43.33:650][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/1/5Z/VMV992632N3Z9RTCRBXONZ
+[2025.09.02-17.43.33:650][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/VMV992632N3Z9RTCRBXONZ702A0F6F4495DD1987605E9DE95AF7E2.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/1/5Z/VMV992632N3Z9RTCRBXONZ.uasset'
+[2025.09.02-17.43.33:670][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/5/70/QDDFTJ0KWGBH3XJG61T8S9
+[2025.09.02-17.43.33:670][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/QDDFTJ0KWGBH3XJG61T8S92912B17D4740687380FEC284D95A2ED1.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/5/70/QDDFTJ0KWGBH3XJG61T8S9.uasset'
+[2025.09.02-17.43.33:691][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/8/0H/YJPS66VXFVFOWSN0EBHCW3
+[2025.09.02-17.43.33:691][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/YJPS66VXFVFOWSN0EBHCW334CB7D23486DF956B46D77B4D94FDDDC.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/8/0H/YJPS66VXFVFOWSN0EBHCW3.uasset'
+[2025.09.02-17.43.33:712][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/D/EL/B2ZRHEZ2ATUY3HWTF5UVE7
+[2025.09.02-17.43.33:713][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/B2ZRHEZ2ATUY3HWTF5UVE7F133D5814D65983CEFFB6E932C98B5BE.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/D/EL/B2ZRHEZ2ATUY3HWTF5UVE7.uasset'
+[2025.09.02-17.43.33:731][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/2/28/B8GQMHZG0X9478SXYTE8KH
+[2025.09.02-17.43.33:731][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/B8GQMHZG0X9478SXYTE8KH90F2B8F0425778B3A271918EEABEE0D0.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/2/28/B8GQMHZG0X9478SXYTE8KH.uasset'
+[2025.09.02-17.43.33:755][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/9/I1/YBPERFAXWSU3P47EXOTKAL
+[2025.09.02-17.43.33:755][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/YBPERFAXWSU3P47EXOTKAL5F54EE1147870004094E7C93B5C7998C.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/9/I1/YBPERFAXWSU3P47EXOTKAL.uasset'
+[2025.09.02-17.43.33:775][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/D/64/CXPHI3WEAVJKLMFAG9RHGW
+[2025.09.02-17.43.33:775][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/CXPHI3WEAVJKLMFAG9RHGWCD47EBE5447D0558F71619ADD4059485.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/D/64/CXPHI3WEAVJKLMFAG9RHGW.uasset'
+[2025.09.02-17.43.33:792][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/5/B0/T43Z50S58CNFG130BBFYVU
+[2025.09.02-17.43.33:792][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/T43Z50S58CNFG130BBFYVU3439F15F404A200936EF0EAF14621716.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/5/B0/T43Z50S58CNFG130BBFYVU.uasset'
+[2025.09.02-17.43.33:806][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/D/L9/S7HURCAJFBSHO3K2SS4TZ4
+[2025.09.02-17.43.33:806][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/S7HURCAJFBSHO3K2SS4TZ4FC0AAB1E4DB3CE2DF9B614858419359B.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/D/L9/S7HURCAJFBSHO3K2SS4TZ4.uasset'
+[2025.09.02-17.43.33:822][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/5/KN/0FECEPXOGC30M7FCT26FCE
+[2025.09.02-17.43.33:822][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/0FECEPXOGC30M7FCT26FCE13671A7C475B642888EAA3ABB1CECE57.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/5/KN/0FECEPXOGC30M7FCT26FCE.uasset'
+[2025.09.02-17.43.33:850][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/4/GM/MXOO6KC6HWYTABWU2GAI75
+[2025.09.02-17.43.33:850][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/MXOO6KC6HWYTABWU2GAI75D542C1A042C008F695420D8FF1035C1B.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/4/GM/MXOO6KC6HWYTABWU2GAI75.uasset'
+[2025.09.02-17.43.33:866][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/3/EH/HM4VU9WXCZ3U61KMR31VTF
+[2025.09.02-17.43.33:866][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/HM4VU9WXCZ3U61KMR31VTF9A513F4D4B17FCD8F31F74B94FF628CC.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/3/EH/HM4VU9WXCZ3U61KMR31VTF.uasset'
+[2025.09.02-17.43.33:881][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/6/K2/33KN5DO8HF48KARV3JUCPU
+[2025.09.02-17.43.33:881][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/33KN5DO8HF48KARV3JUCPU12E50D924BDED399F1822F9F4E77588A.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/6/K2/33KN5DO8HF48KARV3JUCPU.uasset'
+[2025.09.02-17.43.33:896][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/C/NY/IBZYQU76FT7TN6QCBXBHQ2
+[2025.09.02-17.43.33:896][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/IBZYQU76FT7TN6QCBXBHQ2C4C7679B496E5B4C4184C3AE4FC93E4B.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/C/NY/IBZYQU76FT7TN6QCBXBHQ2.uasset'
+[2025.09.02-17.43.33:912][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/3/R0/4JT11LP17EPZP7I26JUCQR
+[2025.09.02-17.43.33:912][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/4JT11LP17EPZP7I26JUCQR5827300B4B1B08F0469B4792A477C81E.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/3/R0/4JT11LP17EPZP7I26JUCQR.uasset'
+[2025.09.02-17.43.33:926][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/D/F5/3G07OGW5O8JBW54V8528B5
+[2025.09.02-17.43.33:926][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/3G07OGW5O8JBW54V8528B58DE027074D5F18543F2CBBA5C1E353CB.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/D/F5/3G07OGW5O8JBW54V8528B5.uasset'
+[2025.09.02-17.43.33:940][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/B/5F/70E140IXTUAJAM17Q5SIFD
+[2025.09.02-17.43.33:940][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/70E140IXTUAJAM17Q5SIFD90ACCCC040B4E911163AE78450681829.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/B/5F/70E140IXTUAJAM17Q5SIFD.uasset'
+[2025.09.02-17.43.33:955][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/2/VI/AQTHJAQHEI4725VPJHXSN4
+[2025.09.02-17.43.33:955][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/AQTHJAQHEI4725VPJHXSN41D90D5AC412470B188DD459E77378428.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/2/VI/AQTHJAQHEI4725VPJHXSN4.uasset'
+[2025.09.02-17.43.33:969][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/0/Y3/ZZ8FSZSTLF736CHSQ32G81
+[2025.09.02-17.43.33:969][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/ZZ8FSZSTLF736CHSQ32G813A7A7FC1469E0BC52024299F2646AD0A.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/0/Y3/ZZ8FSZSTLF736CHSQ32G81.uasset'
+[2025.09.02-17.43.33:983][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/A/JF/T87TQNXGX6PTZSNZ2D6HLK
+[2025.09.02-17.43.33:983][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/T87TQNXGX6PTZSNZ2D6HLKC7A3A6DF4BE620C65CFC889E823561D4.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/A/JF/T87TQNXGX6PTZSNZ2D6HLK.uasset'
+[2025.09.02-17.43.33:998][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/C/V7/S76SED6WFMNKZFEJBULJ91
+[2025.09.02-17.43.33:998][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/S76SED6WFMNKZFEJBULJ91356E12014264545FC8F845848702B2DF.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/C/V7/S76SED6WFMNKZFEJBULJ91.uasset'
+[2025.09.02-17.43.34:012][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/D/MT/EN9XWWKJEUFVN74WF4NK8V
+[2025.09.02-17.43.34:012][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/EN9XWWKJEUFVN74WF4NK8V212E3782487660DE63C4C6B860185C36.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/D/MT/EN9XWWKJEUFVN74WF4NK8V.uasset'
+[2025.09.02-17.43.34:028][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/0/QA/V326B2EGV85PFLOM2ZG67M
+[2025.09.02-17.43.34:028][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/V326B2EGV85PFLOM2ZG67M658D912E4FC79BBC832C7EB9A25B6E8A.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/0/QA/V326B2EGV85PFLOM2ZG67M.uasset'
+[2025.09.02-17.43.34:044][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/F/4Z/23KI0YX7ZJ0BBFII56XPI2
+[2025.09.02-17.43.34:044][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/23KI0YX7ZJ0BBFII56XPI23FE4CE0245B097359575CA9C7A80806F.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/F/4Z/23KI0YX7ZJ0BBFII56XPI2.uasset'
+[2025.09.02-17.43.34:066][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/9/0D/Z2Q3PIMB31NRV2A0IUT1TZ
+[2025.09.02-17.43.34:067][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/Z2Q3PIMB31NRV2A0IUT1TZA88B79D94C4424900C15EC840C6BED67.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/9/0D/Z2Q3PIMB31NRV2A0IUT1TZ.uasset'
+[2025.09.02-17.43.34:085][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/C/RI/HW00TC8LS27SG3AAJOUOTS
+[2025.09.02-17.43.34:085][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/HW00TC8LS27SG3AAJOUOTSF1B472B94086605CDF2336A9817DAB4F.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/C/RI/HW00TC8LS27SG3AAJOUOTS.uasset'
+[2025.09.02-17.43.34:107][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/9/5K/ZH32V7KDN1OLOTM9ZMWQBM
+[2025.09.02-17.43.34:107][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/ZH32V7KDN1OLOTM9ZMWQBMDD5D143C4DEA7211E5AA60AD6426BE03.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/9/5K/ZH32V7KDN1OLOTM9ZMWQBM.uasset'
+[2025.09.02-17.43.34:123][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/4/AV/4T4GIGVIIGHK1HT4JXI91R
+[2025.09.02-17.43.34:123][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/4T4GIGVIIGHK1HT4JXI91REFD5387B4E8C19DFDA943A97BA902B5F.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/4/AV/4T4GIGVIIGHK1HT4JXI91R.uasset'
+[2025.09.02-17.43.34:138][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/6/AR/IEYALSBRM4AKJIFZ0CGKXA
+[2025.09.02-17.43.34:138][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/IEYALSBRM4AKJIFZ0CGKXAD93CBB594929C59EA87C11989C6F3564.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/6/AR/IEYALSBRM4AKJIFZ0CGKXA.uasset'
+[2025.09.02-17.43.34:159][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/0/AX/DWFB1B54S6HVOJ33ZIGA6K
+[2025.09.02-17.43.34:159][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/DWFB1B54S6HVOJ33ZIGA6K005BC5864D33F3C794C304BA0EFD5FEF.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/0/AX/DWFB1B54S6HVOJ33ZIGA6K.uasset'
+[2025.09.02-17.43.34:176][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/7/PP/NLA8OXDAJ1Y4CM4PMU8EEI
+[2025.09.02-17.43.34:176][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/NLA8OXDAJ1Y4CM4PMU8EEIA6DD59394E506F22F52985AF93AF3D6E.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/7/PP/NLA8OXDAJ1Y4CM4PMU8EEI.uasset'
+[2025.09.02-17.43.34:197][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/C/6G/HGTDZ0S3V9RLFCM54T4ZQD
+[2025.09.02-17.43.34:197][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/HGTDZ0S3V9RLFCM54T4ZQDCF9177C846CE38A575100B8FDD0A0A63.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/C/6G/HGTDZ0S3V9RLFCM54T4ZQD.uasset'
+[2025.09.02-17.43.34:219][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/C/C9/RTLAGMFHNK8QUWKEGM1VX4
+[2025.09.02-17.43.34:219][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/RTLAGMFHNK8QUWKEGM1VX4856DBA6C41DFACF0EAA1B296FA2A9EDE.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/C/C9/RTLAGMFHNK8QUWKEGM1VX4.uasset'
+[2025.09.02-17.43.34:236][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/0/9P/7KL6QCTBI9BCJS53O3M8FT
+[2025.09.02-17.43.34:236][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/7KL6QCTBI9BCJS53O3M8FTC8ACCCC242F1825D3E98F980A73DBB6E.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/0/9P/7KL6QCTBI9BCJS53O3M8FT.uasset'
+[2025.09.02-17.43.34:256][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/4/DW/E4AYI9ZHVC5HZ1NYZVTHG7
+[2025.09.02-17.43.34:256][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/E4AYI9ZHVC5HZ1NYZVTHG7F090F1CB4DD62562156A4EA239301318.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/4/DW/E4AYI9ZHVC5HZ1NYZVTHG7.uasset'
+[2025.09.02-17.43.34:279][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/C/3E/UMYLXR463GSL9YZAONRPMY
+[2025.09.02-17.43.34:279][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/UMYLXR463GSL9YZAONRPMYE04EFFCE4F74ED930695D6AB8DBA6592.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/C/3E/UMYLXR463GSL9YZAONRPMY.uasset'
+[2025.09.02-17.43.34:301][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/6/RD/V1FDRADPB21YPY5JNT3JFA
+[2025.09.02-17.43.34:301][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/V1FDRADPB21YPY5JNT3JFAFDB8FF724008C5C83DDF9A9804854ACF.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/6/RD/V1FDRADPB21YPY5JNT3JFA.uasset'
+[2025.09.02-17.43.34:318][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/3/L9/7AL7ACHZF6R8QNUN2CY7TG
+[2025.09.02-17.43.34:318][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/7AL7ACHZF6R8QNUN2CY7TG7591C30E4B8CD0E3922D1EB47821326F.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/3/L9/7AL7ACHZF6R8QNUN2CY7TG.uasset'
+[2025.09.02-17.43.34:335][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/7/DR/UWIGFPD05VJS4KMHK32NJL
+[2025.09.02-17.43.34:335][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/UWIGFPD05VJS4KMHK32NJL256C61DE4F40EB8F93E30CB5982D80CF.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/7/DR/UWIGFPD05VJS4KMHK32NJL.uasset'
+[2025.09.02-17.43.34:350][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/6/R0/C8Q2Q0NV4JQU8GC4QR3VXQ
+[2025.09.02-17.43.34:350][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/C8Q2Q0NV4JQU8GC4QR3VXQ9DEDFD0444705ED2CDE44D819778A99F.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/6/R0/C8Q2Q0NV4JQU8GC4QR3VXQ.uasset'
+[2025.09.02-17.43.34:373][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/2/LJ/DYGICZXZAOT75ELJNRI910
+[2025.09.02-17.43.34:373][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/DYGICZXZAOT75ELJNRI91006941AD949371E39BDF6ADA07103A77A.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/2/LJ/DYGICZXZAOT75ELJNRI910.uasset'
+[2025.09.02-17.43.34:395][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/7/RU/WHOVNPJS7NGM26EDGTAPQ1
+[2025.09.02-17.43.34:395][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/WHOVNPJS7NGM26EDGTAPQ12FF188004D7CB1650A9C86B2AA930470.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/7/RU/WHOVNPJS7NGM26EDGTAPQ1.uasset'
+[2025.09.02-17.43.34:420][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/E/MK/8864GEKTXP0O51E5C6NOE9
+[2025.09.02-17.43.34:420][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/8864GEKTXP0O51E5C6NOE9494782AB456FFF539CB244A306E65B9A.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/E/MK/8864GEKTXP0O51E5C6NOE9.uasset'
+[2025.09.02-17.43.34:432][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/6/SD/T4YAZRWJRJ5OKZHNMD795D
+[2025.09.02-17.43.34:432][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/T4YAZRWJRJ5OKZHNMD795DF02F1FB44C58AF8648DB4EA91A8F490F.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/6/SD/T4YAZRWJRJ5OKZHNMD795D.uasset'
+[2025.09.02-17.43.34:456][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/C/68/095DMSWTUWDMECA34W1EC6
+[2025.09.02-17.43.34:456][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/095DMSWTUWDMECA34W1EC617ADA8DC43F66D28093C8CB50A0189AC.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/C/68/095DMSWTUWDMECA34W1EC6.uasset'
+[2025.09.02-17.43.34:467][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/1/56/BPM5ZNJFXST31UYCGW1DAF
+[2025.09.02-17.43.34:468][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/BPM5ZNJFXST31UYCGW1DAF329395C54BE67279318C389864ACA51C.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/1/56/BPM5ZNJFXST31UYCGW1DAF.uasset'
+[2025.09.02-17.43.34:481][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/0/0B/3B5YA8HRUE7F13TWM78FHV
+[2025.09.02-17.43.34:481][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/3B5YA8HRUE7F13TWM78FHV4FF50D3A4AB5B06B14CAB1910B628144.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/0/0B/3B5YA8HRUE7F13TWM78FHV.uasset'
+[2025.09.02-17.43.34:494][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/A/90/XOTL6WBMNBI38C713RHFEM
+[2025.09.02-17.43.34:494][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/XOTL6WBMNBI38C713RHFEM2B63243342CFABFA46F2B0994C738224.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/A/90/XOTL6WBMNBI38C713RHFEM.uasset'
+[2025.09.02-17.43.34:515][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/A/3R/G8HFF03U24YV0IABQGUOUQ
+[2025.09.02-17.43.34:515][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/G8HFF03U24YV0IABQGUOUQAC4F5A574DA2D0DF387964B2919EB59B.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/A/3R/G8HFF03U24YV0IABQGUOUQ.uasset'
+[2025.09.02-17.43.34:526][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/0/QU/EROB6INS4TDM6EZYK2XL5J
+[2025.09.02-17.43.34:526][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/EROB6INS4TDM6EZYK2XL5J837831FC42D2442DD2EDB592289DB156.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/0/QU/EROB6INS4TDM6EZYK2XL5J.uasset'
+[2025.09.02-17.43.34:539][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/A/WK/5EDP96CARI5EJERPJ0X44R
+[2025.09.02-17.43.34:539][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/5EDP96CARI5EJERPJ0X44RB9F959DE4E7818BA082032A846BB48EF.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/A/WK/5EDP96CARI5EJERPJ0X44R.uasset'
+[2025.09.02-17.43.34:563][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/E/OS/EMUWKO4MCDADU9XAPAQE3R
+[2025.09.02-17.43.34:563][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/EMUWKO4MCDADU9XAPAQE3RF7963490467FBC218DAFDE9D6F245D84.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/E/OS/EMUWKO4MCDADU9XAPAQE3R.uasset'
+[2025.09.02-17.43.34:571][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/5/2R/MXPM09Y1CVK9C3QLOCVR14
+[2025.09.02-17.43.34:571][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/MXPM09Y1CVK9C3QLOCVR1445A17FFC402F8FFE8DF2DABFBAABD556.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/5/2R/MXPM09Y1CVK9C3QLOCVR14.uasset'
+[2025.09.02-17.43.34:577][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/8/3V/WR2QIDTBN0B8NS9FB3WY4B
+[2025.09.02-17.43.34:577][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/WR2QIDTBN0B8NS9FB3WY4B8C50E0894AA5A8837868778A4B3F6664.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/8/3V/WR2QIDTBN0B8NS9FB3WY4B.uasset'
+[2025.09.02-17.43.34:583][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/5/YP/G46FVHDJIJ6H7ODK1EUDI3
+[2025.09.02-17.43.34:584][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/G46FVHDJIJ6H7ODK1EUDI39BDDCD0E4B8E51F5A6735F8C579F6477.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/5/YP/G46FVHDJIJ6H7ODK1EUDI3.uasset'
+[2025.09.02-17.43.34:589][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/A/YG/F2ZV9SATOJBT397GZA06WB
+[2025.09.02-17.43.34:589][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/F2ZV9SATOJBT397GZA06WB4EB7A7B6462905AA1FDCCEAECD073102.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/A/YG/F2ZV9SATOJBT397GZA06WB.uasset'
+[2025.09.02-17.43.34:597][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/3/IR/BJNDLPRAI5GWKJI6I0GCBI
+[2025.09.02-17.43.34:597][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/BJNDLPRAI5GWKJI6I0GCBI41870B32474D3147E42D07B2C0F8A011.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/3/IR/BJNDLPRAI5GWKJI6I0GCBI.uasset'
+[2025.09.02-17.43.34:606][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/7/H9/WFY44SLOHDM0FIGZML2YTZ
+[2025.09.02-17.43.34:606][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/WFY44SLOHDM0FIGZML2YTZ4E59F18C4313AC6363E5E1855E841612.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/7/H9/WFY44SLOHDM0FIGZML2YTZ.uasset'
+[2025.09.02-17.43.34:612][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/D/V9/GINU0OV8UQ8ZGGY2EQ4EPI
+[2025.09.02-17.43.34:612][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/GINU0OV8UQ8ZGGY2EQ4EPIC5A9F9834C167F43F579A184010E2D9C.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/D/V9/GINU0OV8UQ8ZGGY2EQ4EPI.uasset'
+[2025.09.02-17.43.34:617][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/E/VZ/A7HDVHT73ZCJDYAVTQFMSW
+[2025.09.02-17.43.34:617][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/A7HDVHT73ZCJDYAVTQFMSWFB672D9E4697E340B4B8F9A75AE7B1C4.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/E/VZ/A7HDVHT73ZCJDYAVTQFMSW.uasset'
+[2025.09.02-17.43.34:621][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/8/UI/GPBT6IMAPBUBM6AD7TI182
+[2025.09.02-17.43.34:621][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/GPBT6IMAPBUBM6AD7TI18243D882C54594BD53A929EB86D92169BF.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/8/UI/GPBT6IMAPBUBM6AD7TI182.uasset'
+[2025.09.02-17.43.34:626][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/B/UV/S3MGV2VUTDRSI8YW20U9KF
+[2025.09.02-17.43.34:626][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/S3MGV2VUTDRSI8YW20U9KF68584A994292A86E4DB17AA746EC8B65.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/B/UV/S3MGV2VUTDRSI8YW20U9KF.uasset'
+[2025.09.02-17.43.34:631][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/5/R3/3GTRKTUM5IX6GEKWQMK89R
+[2025.09.02-17.43.34:631][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/3GTRKTUM5IX6GEKWQMK89RB8A095AC455A0D0F73CDE98A6052C330.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/5/R3/3GTRKTUM5IX6GEKWQMK89R.uasset'
+[2025.09.02-17.43.34:643][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/2/33/4TQJI0IOH9B2C7NMZYRKFZ
+[2025.09.02-17.43.34:643][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/4TQJI0IOH9B2C7NMZYRKFZA6388CE44DC16D7746B993B0C15B71AE.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/2/33/4TQJI0IOH9B2C7NMZYRKFZ.uasset'
+[2025.09.02-17.43.34:652][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/A/HN/TW1T39KMHOAYH67R32PPLY
+[2025.09.02-17.43.34:652][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/TW1T39KMHOAYH67R32PPLY67CC3F3A46F0C536677131B1F3C4A22A.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/A/HN/TW1T39KMHOAYH67R32PPLY.uasset'
+[2025.09.02-17.43.34:658][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/9/F0/ZHO4IC8EF68DX7QHDPBRC3
+[2025.09.02-17.43.34:658][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/ZHO4IC8EF68DX7QHDPBRC3B316478D4A5DEB6F5599B3B731C8B522.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/9/F0/ZHO4IC8EF68DX7QHDPBRC3.uasset'
+[2025.09.02-17.43.34:663][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/1/YO/SJCFPDAUCMU4H6YHUBMZ66
+[2025.09.02-17.43.34:663][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/SJCFPDAUCMU4H6YHUBMZ66CF668BEC4F4F91CDBC7D499E70F15346.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/1/YO/SJCFPDAUCMU4H6YHUBMZ66.uasset'
+[2025.09.02-17.43.34:667][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/8/J8/6482SZJZ20E77NJQRF41WZ
+[2025.09.02-17.43.34:667][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/6482SZJZ20E77NJQRF41WZ400FBF684E602C6CF17508AC348B43EF.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/8/J8/6482SZJZ20E77NJQRF41WZ.uasset'
+[2025.09.02-17.43.34:673][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/B/IP/AU3XPECQX98D0640HIP211
+[2025.09.02-17.43.34:673][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/AU3XPECQX98D0640HIP2117A3AA3D3467D7BE4C5AD8D8B6A48BC67.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/B/IP/AU3XPECQX98D0640HIP211.uasset'
+[2025.09.02-17.43.34:679][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/8/VO/92NDDXIWV9G8BTOKVSZQNH
+[2025.09.02-17.43.34:679][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/92NDDXIWV9G8BTOKVSZQNH04AFFF8E4FBEA74086D14FBDE22FE228.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/8/VO/92NDDXIWV9G8BTOKVSZQNH.uasset'
+[2025.09.02-17.43.34:683][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/C/EL/JTWQMLFRCRSC4QHBDX3S11
+[2025.09.02-17.43.34:683][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/JTWQMLFRCRSC4QHBDX3S1145CA4CF04726F492794F888DA61ABF21.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/C/EL/JTWQMLFRCRSC4QHBDX3S11.uasset'
+[2025.09.02-17.43.34:689][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/4/PI/ADXAJ8UJQWWEPKYXJTKUEA
+[2025.09.02-17.43.34:689][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/ADXAJ8UJQWWEPKYXJTKUEAFF574705411F4A1192F4619246D23DD7.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/4/PI/ADXAJ8UJQWWEPKYXJTKUEA.uasset'
+[2025.09.02-17.43.34:694][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/9/O2/GCCW0GIG5JU5WPIJ7PVLYO
+[2025.09.02-17.43.34:694][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/GCCW0GIG5JU5WPIJ7PVLYOB51B92BA445BCA2109F14CB146275D22.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/9/O2/GCCW0GIG5JU5WPIJ7PVLYO.uasset'
+[2025.09.02-17.43.34:700][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/E/QE/J2KGC656NTG3RKXEVKYLBL
+[2025.09.02-17.43.34:700][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/J2KGC656NTG3RKXEVKYLBLFE3F5A5D4D4FFD6CD126989EF6212CC3.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/E/QE/J2KGC656NTG3RKXEVKYLBL.uasset'
+[2025.09.02-17.43.34:705][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/3/XY/4H2F4D2K9XYNGYFTTRCOMI
+[2025.09.02-17.43.34:705][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/4H2F4D2K9XYNGYFTTRCOMI634AA85B485470F7CA8E62AAD5A67061.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/3/XY/4H2F4D2K9XYNGYFTTRCOMI.uasset'
+[2025.09.02-17.43.34:710][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/2/OJ/HIGSENKTI9C13PWQDB0KGH
+[2025.09.02-17.43.34:710][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/HIGSENKTI9C13PWQDB0KGH20A349424B57815D231B28A321D99F07.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/2/OJ/HIGSENKTI9C13PWQDB0KGH.uasset'
+[2025.09.02-17.43.34:714][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/D/FS/S7L1HNMYYHU1N9C25K8SUC
+[2025.09.02-17.43.34:714][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/S7L1HNMYYHU1N9C25K8SUC75C21C2040B7C0D26716BEB9890F6FF0.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/D/FS/S7L1HNMYYHU1N9C25K8SUC.uasset'
+[2025.09.02-17.43.34:718][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/7/U4/90W24MCNU5GORKJ6LSMDEW
+[2025.09.02-17.43.34:718][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/90W24MCNU5GORKJ6LSMDEW76F901EC46A62666F1406181DBB85757.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/7/U4/90W24MCNU5GORKJ6LSMDEW.uasset'
+[2025.09.02-17.43.34:722][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/A/4S/WSNGRZTAX5ZIGENNA1LV8P
+[2025.09.02-17.43.34:722][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/WSNGRZTAX5ZIGENNA1LV8PABC286234E85E2B086C5658219708D3B.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/A/4S/WSNGRZTAX5ZIGENNA1LV8P.uasset'
+[2025.09.02-17.43.34:727][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/0/76/CG0UGS4S7XZ53EGQIJXKTX
+[2025.09.02-17.43.34:728][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/CG0UGS4S7XZ53EGQIJXKTX6555795A4555BDC56F8E008C45499CAF.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/0/76/CG0UGS4S7XZ53EGQIJXKTX.uasset'
+[2025.09.02-17.43.34:733][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/5/HK/ABISB8WYG0DZ9XII304XTC
+[2025.09.02-17.43.34:733][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/ABISB8WYG0DZ9XII304XTCEF989C124727C1056B4172AF0D387C63.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/5/HK/ABISB8WYG0DZ9XII304XTC.uasset'
+[2025.09.02-17.43.34:737][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/F/0C/83UKHFHPV0WMICYUMJ6D7Q
+[2025.09.02-17.43.34:737][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/83UKHFHPV0WMICYUMJ6D7Q6DA2E4154F68E9BB26FF3D86034E2CF7.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/F/0C/83UKHFHPV0WMICYUMJ6D7Q.uasset'
+[2025.09.02-17.43.34:742][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/7/5W/5PR63V96HO8IRRWNJSC652
+[2025.09.02-17.43.34:742][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/5PR63V96HO8IRRWNJSC652ED8051A44F69A28D9C060D9A57BFDA4B.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/7/5W/5PR63V96HO8IRRWNJSC652.uasset'
+[2025.09.02-17.43.34:747][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/E/1B/FTDZMQ4DWUVPXCXGIG6623
+[2025.09.02-17.43.34:747][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/FTDZMQ4DWUVPXCXGIG66238A2E0E57441B3A83D1CB59AE74ABBEB0.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/E/1B/FTDZMQ4DWUVPXCXGIG6623.uasset'
+[2025.09.02-17.43.34:752][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/1/76/GHTQXEOERV5J15O9WSNZ9F
+[2025.09.02-17.43.34:752][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/GHTQXEOERV5J15O9WSNZ9F63652A9F4630FD0B8E90619E1C2B27C6.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/1/76/GHTQXEOERV5J15O9WSNZ9F.uasset'
+[2025.09.02-17.43.34:755][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/6/O8/R0GR0ZMDEJ06Q2AOPY3W14
+[2025.09.02-17.43.34:755][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/R0GR0ZMDEJ06Q2AOPY3W14F826E9164B2F1E3E6BA2F1A6CE8203B6.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/6/O8/R0GR0ZMDEJ06Q2AOPY3W14.uasset'
+[2025.09.02-17.43.34:760][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/4/98/EME2WAWXQDBY9KGXHXFEOX
+[2025.09.02-17.43.34:760][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/EME2WAWXQDBY9KGXHXFEOX5750F6F542F3B6839ED31D94EF3660CE.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/4/98/EME2WAWXQDBY9KGXHXFEOX.uasset'
+[2025.09.02-17.43.34:765][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/9/AX/SBEOH8DPKHTBP97M1HNT36
+[2025.09.02-17.43.34:765][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/SBEOH8DPKHTBP97M1HNT36E9E16B0F4990B9F950599B9B61258849.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/9/AX/SBEOH8DPKHTBP97M1HNT36.uasset'
+[2025.09.02-17.43.34:769][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/3/03/WOUJUEUCYYGEUOX5WWL2AB
+[2025.09.02-17.43.34:769][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/WOUJUEUCYYGEUOX5WWL2ABE6C4EE8D40E8BCFD2B0B5DB6DDA7184C.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/3/03/WOUJUEUCYYGEUOX5WWL2AB.uasset'
+[2025.09.02-17.43.34:774][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/A/UN/LGASLPDHV9IE0X4MQ7DBZ4
+[2025.09.02-17.43.34:774][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/LGASLPDHV9IE0X4MQ7DBZ4545233A4408425FE3D29398B27B1F4A1.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/A/UN/LGASLPDHV9IE0X4MQ7DBZ4.uasset'
+[2025.09.02-17.43.34:779][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/8/9K/TDQ3VUQP97225HLZVSQFIV
+[2025.09.02-17.43.34:779][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/TDQ3VUQP97225HLZVSQFIV9CD3269248A44191426B089B8C122B7F.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/8/9K/TDQ3VUQP97225HLZVSQFIV.uasset'
+[2025.09.02-17.43.34:783][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/9/VH/HFZR1PDRH2NO5KMN69QAMK
+[2025.09.02-17.43.34:783][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/HFZR1PDRH2NO5KMN69QAMK9EB64A6F40F22CB9D06B20BBEDBC6203.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/9/VH/HFZR1PDRH2NO5KMN69QAMK.uasset'
+[2025.09.02-17.43.34:791][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/8/QC/AR0ZS7DVKOLE6MP2R32KE8
+[2025.09.02-17.43.34:791][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/AR0ZS7DVKOLE6MP2R32KE8C3D21C164CA742933F420B8C4AAE7928.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/8/QC/AR0ZS7DVKOLE6MP2R32KE8.uasset'
+[2025.09.02-17.43.34:800][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/0/Q9/FJM2J5ARMI6O0DIFSTYK60
+[2025.09.02-17.43.34:800][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/FJM2J5ARMI6O0DIFSTYK6016E7B6E34B4B1F9CC5DE3D8423E3456A.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/0/Q9/FJM2J5ARMI6O0DIFSTYK60.uasset'
+[2025.09.02-17.43.34:808][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/D/0P/3EI9UQ2OZZ01GWCO26LH53
+[2025.09.02-17.43.34:808][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/3EI9UQ2OZZ01GWCO26LH532F27F7F045D31275303A549FEAEEF05E.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/D/0P/3EI9UQ2OZZ01GWCO26LH53.uasset'
+[2025.09.02-17.43.34:813][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/8/WW/9AQB11JW93XOGWKYMHYF38
+[2025.09.02-17.43.34:813][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/9AQB11JW93XOGWKYMHYF38C6F361E748AEE445A3C231872F4274CE.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/8/WW/9AQB11JW93XOGWKYMHYF38.uasset'
+[2025.09.02-17.43.34:822][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/4/U2/SSSLOJS1PTIQQFCU5PYFS3
+[2025.09.02-17.43.34:822][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/SSSLOJS1PTIQQFCU5PYFS3EF8F4F654B7C251A891672A6DA05D50E.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/4/U2/SSSLOJS1PTIQQFCU5PYFS3.uasset'
+[2025.09.02-17.43.34:830][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/0/GQ/73WFBWQJKZ2MW3GYBJBDM7
+[2025.09.02-17.43.34:830][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/73WFBWQJKZ2MW3GYBJBDM7C87EF3B0438F13F6C9FBFD962C0A1BEC.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/0/GQ/73WFBWQJKZ2MW3GYBJBDM7.uasset'
+[2025.09.02-17.43.34:838][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/D/61/RXOA1CCO96YU070K89SYD5
+[2025.09.02-17.43.34:838][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/RXOA1CCO96YU070K89SYD5886FEDC64C23591C0095E79A85285DF7.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/D/61/RXOA1CCO96YU070K89SYD5.uasset'
+[2025.09.02-17.43.34:843][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/E/19/P4AU9717VT20OM19YJ2D1R
+[2025.09.02-17.43.34:843][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/P4AU9717VT20OM19YJ2D1R9397673148963D8633A05DBDB81E711C.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/E/19/P4AU9717VT20OM19YJ2D1R.uasset'
+[2025.09.02-17.43.34:851][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/1/VM/3DQ4EQCFQMUMD42GPZ632Y
+[2025.09.02-17.43.34:851][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/3DQ4EQCFQMUMD42GPZ632Y150356324B698A8211F87AB1587E5B28.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/1/VM/3DQ4EQCFQMUMD42GPZ632Y.uasset'
+[2025.09.02-17.43.34:856][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/1/B0/W51Q0XP7EN2ETC1L2C9E47
+[2025.09.02-17.43.34:856][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/W51Q0XP7EN2ETC1L2C9E477F5E6CAB4BB48A340C77B2B05E7A1832.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/1/B0/W51Q0XP7EN2ETC1L2C9E47.uasset'
+[2025.09.02-17.43.34:861][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/A/XF/MD2RTKWENDPZGKCYR3WQAQ
+[2025.09.02-17.43.34:861][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/MD2RTKWENDPZGKCYR3WQAQ9632288F4E394672579011994E9C9A99.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/A/XF/MD2RTKWENDPZGKCYR3WQAQ.uasset'
+[2025.09.02-17.43.34:865][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/1/BB/CA4RM5SM5S99VV5PY4G2SS
+[2025.09.02-17.43.34:866][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/CA4RM5SM5S99VV5PY4G2SS2DBFFDD3457A6639FBE75FB5EFCD12BB.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/1/BB/CA4RM5SM5S99VV5PY4G2SS.uasset'
+[2025.09.02-17.43.34:871][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/7/QB/MX162VO92GLXM0H9JE0KU2
+[2025.09.02-17.43.34:871][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/MX162VO92GLXM0H9JE0KU2C3C97040457C372F995516A9AC9D7419.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/7/QB/MX162VO92GLXM0H9JE0KU2.uasset'
+[2025.09.02-17.43.34:876][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/3/2L/5O0JN3GEAWB9TX89SCE36J
+[2025.09.02-17.43.34:876][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/5O0JN3GEAWB9TX89SCE36JC1F98B1E4DD6166A8BBDE4AC07E703A8.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/3/2L/5O0JN3GEAWB9TX89SCE36J.uasset'
+[2025.09.02-17.43.34:883][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/C/V2/3ZVLC3GIKRAAHBDE7R1CGU
+[2025.09.02-17.43.34:883][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/3ZVLC3GIKRAAHBDE7R1CGU47B6B69942FA458746BA43A12289F1AD.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/C/V2/3ZVLC3GIKRAAHBDE7R1CGU.uasset'
+[2025.09.02-17.43.34:888][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/A/I9/C7KC6C4IMEWO75U3IALRXQ
+[2025.09.02-17.43.34:888][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/C7KC6C4IMEWO75U3IALRXQFCEB1CE04022F63457D8C184876B0EE5.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/A/I9/C7KC6C4IMEWO75U3IALRXQ.uasset'
+[2025.09.02-17.43.34:895][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/4/DZ/L5NXAH4DKZD5IRR50CHLEL
+[2025.09.02-17.43.34:895][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/L5NXAH4DKZD5IRR50CHLELFA5317E84D2F79E3BE77BB8E45BAB4DA.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/4/DZ/L5NXAH4DKZD5IRR50CHLEL.uasset'
+[2025.09.02-17.43.34:905][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/1/48/AXPW9PXGZKLHXNLVXIVN4R
+[2025.09.02-17.43.34:905][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/AXPW9PXGZKLHXNLVXIVN4R8C3A848041A91E7FDC4197BCBBFF7B44.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/1/48/AXPW9PXGZKLHXNLVXIVN4R.uasset'
+[2025.09.02-17.43.34:913][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/D/3A/3W1WB1YTV4O3ROW6CQXHQ4
+[2025.09.02-17.43.34:913][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/3W1WB1YTV4O3ROW6CQXHQ4D51CCFCD4D939DB22D8898A0A3AC587D.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/D/3A/3W1WB1YTV4O3ROW6CQXHQ4.uasset'
+[2025.09.02-17.43.34:922][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/3/VC/77UHXR2U1WH5DDJBIR2IVZ
+[2025.09.02-17.43.34:922][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/77UHXR2U1WH5DDJBIR2IVZAC9AEE4340781F2CE21CEB9CEB2D1AC2.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/3/VC/77UHXR2U1WH5DDJBIR2IVZ.uasset'
+[2025.09.02-17.43.34:929][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/5/4T/XJWX88I1L1GHGU04JJN9EW
+[2025.09.02-17.43.34:929][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/XJWX88I1L1GHGU04JJN9EW6F194C5E4CF45AF0317B4A9F97FA5652.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/5/4T/XJWX88I1L1GHGU04JJN9EW.uasset'
+[2025.09.02-17.43.34:934][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/D/7R/7T0TX9AP91466CZUTGTBVD
+[2025.09.02-17.43.34:934][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/7T0TX9AP91466CZUTGTBVDE8D2AC3443AD6D262C9BCDB100D66813.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/D/7R/7T0TX9AP91466CZUTGTBVD.uasset'
+[2025.09.02-17.43.34:938][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/2/P8/UINFERILKOPR5O94HOJ15A
+[2025.09.02-17.43.34:938][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/UINFERILKOPR5O94HOJ15A4922AF6B454C3406E8C17BBBFE075207.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/2/P8/UINFERILKOPR5O94HOJ15A.uasset'
+[2025.09.02-17.43.34:948][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/E/NV/1AQBC9ZQMV6HR78TAA925F
+[2025.09.02-17.43.34:948][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/1AQBC9ZQMV6HR78TAA925F5AAAEB184850C04C785D4C899CD2119F.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/E/NV/1AQBC9ZQMV6HR78TAA925F.uasset'
+[2025.09.02-17.43.34:950][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Lecture1-Exercise1/1/PU/7AIC0G8K7XCLKMYC7V7Q02
+[2025.09.02-17.43.34:950][923]LogSavePackage: Moving '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Saved/7AIC0G8K7XCLKMYC7V7Q02A2D04DB2459C4421F0A3C58BE3B26C2E.tmp' to '../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/__ExternalActors__/Lecture1-Exercise1/1/PU/7AIC0G8K7XCLKMYC7V7Q02.uasset'
+[2025.09.02-17.43.34:953][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.93 sec (total: 2.21 sec)
+[2025.09.02-17.43.34:959][923]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Lecture1-Exercise1_HLOD0_Instancing
+/Game/__ExternalActors__/Lecture1-Exercise1/2/79/BDCNOKXK25T85MDWEA1QQ8
+/Game/__ExternalObjects__/Lecture1-Exercise1/7/2Y/6UTBMQPIJ81DB46SOYMB8J
+/Game/__ExternalObjects__/Lecture1-Exercise1/0/IK/QUSXXA9YYO4RMFUEIJB4X2
+/Game/__ExternalObjects__/Lecture1-Exercise1/E/VB/WGVQMA5YBDI0WVNSESMN2S
+/Game/__ExternalObjects__/Lecture1-Exercise1/9/O7/B76PG8OI82CM69QZMBQS1X
+/Game/__ExternalObjects__/Lecture1-Exercise1/A/EV/I96GF0JWBAPFRNEAZUTXLJ
+/Game/__ExternalObjects__/Lecture1-Exercise1/E/QT/17EDIOOQ947ZKYBBL1G5V9
+/Game/__ExternalActors__/Lecture1-Exercise1/9/9G/GKXPJGO0FB8ZYP8FKM3212
+/Game/__ExternalActors__/Lecture1-Exercise1/A/BB/EMCH0ZM7OWPBLPD6VW7UJT
+/Game/__ExternalActors__/Lecture1-Exercise1/6/VC/7NKMSQH1M4W61KGC5RZ24H
+/Game/__ExternalActors__/Lecture1-Exercise1/9/WO/IHOXE7Q8OZHS3CCW9OE98M
+/Game/__ExternalActors__/Lecture1-Exercise1/7/B0/SX92C96A807FVSKQGW9IGK
+/Game/__ExternalActors__/Lecture1-Exercise1/3/8C/9GQLX7L7V4WR7P254V0HWD
+/Game/__ExternalActors__/Lecture1-Exercise1/C/O2/CZU6VRT7LAF5554AVDBFX8
+/Game/__ExternalActors__/Lecture1-Exercise1/E/YK/VG453SF7R2UFMUK80PVJKY
+/Game/__ExternalActors__/Lecture1-Exercise1/C/HP/9FCVQK948R4CBB2K7PB5K2
+/Game/__ExternalActors__/Lecture1-Exercise1/0/78/XGE7HQJHH8MC7TMNZBLD5U
+/Game/__ExternalActors__/Lecture1-Exercise1/D/48/ZM1JUI6K2554DB9MTJMJ62
+/Game/__ExternalActors__/Lecture1-Exercise1/A/7N/0Z4H06ECRURRDO5DPVODQ3
+/Game/__ExternalActors__/Lecture1-Exercise1/2/3U/I5KQKXWTHICK60WUZGCL7L
+/Game/__ExternalActors__/Lecture1-Exercise1/3/LY/G561UE38W5VFAZI4RIUQJF
+/Game/__ExternalActors__/Lecture1-Exercise1/9/MX/1FOOB61LHA9K8I40IPJEJL
+/Game/__ExternalActors__/Lecture1-Exercise1/D/C6/MR379RU0EO0J6LLYDKVHFA
+/Game/__ExternalActors__/Lecture1-Exercise1/B/SY/LIYMOTGJOV77TOJVS8DCYN
+/Game/__ExternalActors__/Lecture1-Exercise1/B/HQ/7BNRFZZAZHMJZ5XKT4Z529
+/Game/__ExternalActors__/Lecture1-Exercise1/4/9R/X524EYB1ZID1H3VX1HEK7I
+/Game/__ExternalActors__/Lecture1-Exercise1/0/DI/HCJHRXJT7PA7QK7W36FZBF
+/Game/__ExternalActors__/Lecture1-Exercise1/1/E5/PQUQZSTBLKQPLG3L5AUXVT
+/Game/__ExternalActors__/Lecture1-Exercise1/1/5Z/VMV992632N3Z9RTCRBXONZ
+/Game/__ExternalActors__/Lecture1-Exercise1/5/70/QDDFTJ0KWGBH3XJG61T8S9
+/Game/__ExternalActors__/Lecture1-Exercise1/8/0H/YJPS66VXFVFOWSN0EBHCW3
+/Game/__ExternalActors__/Lecture1-Exercise1/D/EL/B2ZRHEZ2ATUY3HWTF5UVE7
+/Game/__ExternalActors__/Lecture1-Exercise1/2/28/B8GQMHZG0X9478SXYTE8KH
+/Game/__ExternalActors__/Lecture1-Exercise1/9/I1/YBPERFAXWSU3P47EXOTKAL
+/Game/__ExternalActors__/Lecture1-Exercise1/D/64/CXPHI3WEAVJKLMFAG9RHGW
+/Game/__ExternalActors__/Lecture1-Exercise1/5/B0/T43Z50S58CNFG130BBFYVU
+/Game/__ExternalActors__/Lecture1-Exercise1/D/L9/S7HURCAJFBSHO3K2SS4TZ4
+/Game/__ExternalActors__/Lecture1-Exercise1/5/KN/0FECEPXOGC30M7FCT26FCE
+/Game/__ExternalActors__/Lecture1-Exercise1/4/GM/MXOO6KC6HWYTABWU2GAI75
+/Game/__ExternalActors__/Lecture1-Exercise1/3/EH/HM4VU9WXCZ3U61KMR31VTF
+/Game/__ExternalActors__/Lecture1-Exercise1/6/K2/33KN5DO8HF48KARV3JUCPU
+/Game/__ExternalActors__/Lecture1-Exercise1/C/NY/IBZYQU76FT7TN6QCBXBHQ2
+/Game/__ExternalActors__/Lecture1-Exercise1/3/R0/4JT11LP17EPZP7I26JUCQR
+/Game/__ExternalActors__/Lecture1-Exercise1/D/F5/3G07OGW5O8JBW54V8528B5
+/Game/__ExternalActors__/Lecture1-Exercise1/B/5F/70E140IXTUAJAM17Q5SIFD
+/Game/__ExternalActors__/Lecture1-Exercise1/2/VI/AQTHJAQHEI4725VPJHXSN4
+/Game/__ExternalActors__/Lecture1-Exercise1/0/Y3/ZZ8FSZSTLF736CHSQ32G81
+/Game/__ExternalActors__/Lecture1-Exercise1/A/JF/T87TQNXGX6PTZSNZ2D6HLK
+/Game/__ExternalActors__/Lecture1-Exercise1/C/V7/S76SED6WFMNKZFEJBULJ91
+/Game/__ExternalActors__/Lecture1-Exercise1/D/MT/EN9XWWKJEUFVN74WF4NK8V
+/Game/__ExternalActors__/Lecture1-Exercise1/0/QA/V326B2EGV85PFLOM2ZG67M
+/Game/__ExternalActors__/Lecture1-Exercise1/F/4Z/23KI0YX7ZJ0BBFII56XPI2
+/Game/__ExternalActors__/Lecture1-Exercise1/9/0D/Z2Q3PIMB31NRV2A0IUT1TZ
+/Game/__ExternalActors__/Lecture1-Exercise1/C/RI/HW00TC8LS27SG3AAJOUOTS
+/Game/__ExternalActors__/Lecture1-Exercise1/9/5K/ZH32V7KDN1OLOTM9ZMWQBM
+/Game/__ExternalActors__/Lecture1-Exercise1/4/AV/4T4GIGVIIGHK1HT4JXI91R
+/Game/__ExternalActors__/Lecture1-Exercise1/6/AR/IEYALSBRM4AKJIFZ0CGKXA
+/Game/__ExternalActors__/Lecture1-Exercise1/0/AX/DWFB1B54S6HVOJ33ZIGA6K
+/Game/__ExternalActors__/Lecture1-Exercise1/7/PP/NLA8OXDAJ1Y4CM4PMU8EEI
+/Game/__ExternalActors__/Lecture1-Exercise1/C/6G/HGTDZ0S3V9RLFCM54T4ZQD
+/Game/__ExternalActors__/Lecture1-Exercise1/C/C9/RTLAGMFHNK8QUWKEGM1VX4
+/Game/__ExternalActors__/Lecture1-Exercise1/0/9P/7KL6QCTBI9BCJS53O3M8FT
+/Game/__ExternalActors__/Lecture1-Exercise1/4/DW/E4AYI9ZHVC5HZ1NYZVTHG7
+/Game/__ExternalActors__/Lecture1-Exercise1/C/3E/UMYLXR463GSL9YZAONRPMY
+/Game/__ExternalActors__/Lecture1-Exercise1/6/RD/V1FDRADPB21YPY5JNT3JFA
+/Game/__ExternalActors__/Lecture1-Exercise1/3/L9/7AL7ACHZF6R8QNUN2CY7TG
+/Game/__ExternalActors__/Lecture1-Exercise1/7/DR/UWIGFPD05VJS4KMHK32NJL
+/Game/__ExternalActors__/Lecture1-Exercise1/6/R0/C8Q2Q0NV4JQU8GC4QR3VXQ
+/Game/__ExternalActors__/Lecture1-Exercise1/2/LJ/DYGICZXZAOT75ELJNRI910
+/Game/__ExternalActors__/Lecture1-Exercise1/7/RU/WHOVNPJS7NGM26EDGTAPQ1
+/Game/__ExternalActors__/Lecture1-Exercise1/E/MK/8864GEKTXP0O51E5C6NOE9
+/Game/__ExternalActors__/Lecture1-Exercise1/6/SD/T4YAZRWJRJ5OKZHNMD795D
+/Game/__ExternalActors__/Lecture1-Exercise1/C/68/095DMSWTUWDMECA34W1EC6
+/Game/__ExternalActors__/Lecture1-Exercise1/1/56/BPM5ZNJFXST31UYCGW1DAF
+/Game/__ExternalActors__/Lecture1-Exercise1/0/0B/3B5YA8HRUE7F13TWM78FHV
+/Game/__ExternalActors__/Lecture1-Exercise1/A/90/XOTL6WBMNBI38C713RHFEM
+/Game/__ExternalActors__/Lecture1-Exercise1/A/3R/G8HFF03U24YV0IABQGUOUQ
+/Game/__ExternalActors__/Lecture1-Exercise1/0/QU/EROB6INS4TDM6EZYK2XL5J
+/Game/__ExternalActors__/Lecture1-Exercise1/A/WK/5EDP96CARI5EJERPJ0X44R
+/Game/__ExternalActors__/Lecture1-Exercise1/E/OS/EMUWKO4MCDADU9XAPAQE3R
+/Game/__ExternalActors__/Lecture1-Exercise1/5/2R/MXPM09Y1CVK9C3QLOCVR14
+/Game/__ExternalActors__/Lecture1-Exercise1/8/3V/WR2QIDTBN0B8NS9FB3WY4B
+/Game/__ExternalActors__/Lecture1-Exercise1/5/YP/G46FVHDJIJ6H7ODK1EUDI3
+/Game/__ExternalActors__/Lecture1-Exercise1/A/YG/F2ZV9SATOJBT397GZA06WB
+/Game/__ExternalActors__/Lecture1-Exercise1/3/IR/BJNDLPRAI5GWKJI6I0GCBI
+/Game/__ExternalActors__/Lecture1-Exercise1/7/H9/WFY44SLOHDM0FIGZML2YTZ
+/Game/__ExternalActors__/Lecture1-Exercise1/D/V9/GINU0OV8UQ8ZGGY2EQ4EPI
+/Game/__ExternalActors__/Lecture1-Exercise1/E/VZ/A7HDVHT73ZCJDYAVTQFMSW
+/Game/__ExternalActors__/Lecture1-Exercise1/8/UI/GPBT6IMAPBUBM6AD7TI182
+/Game/__ExternalActors__/Lecture1-Exercise1/B/UV/S3MGV2VUTDRSI8YW20U9KF
+/Game/__ExternalActors__/Lecture1-Exercise1/5/R3/3GTRKTUM5IX6GEKWQMK89R
+/Game/__ExternalActors__/Lecture1-Exercise1/2/33/4TQJI0IOH9B2C7NMZYRKFZ
+/Game/__ExternalActors__/Lecture1-Exercise1/A/HN/TW1T39KMHOAYH67R32PPLY
+/Game/__ExternalActors__/Lecture1-Exercise1/9/F0/ZHO4IC8EF68DX7QHDPBRC3
+/Game/__ExternalActors__/Lecture1-Exercise1/1/YO/SJCFPDAUCMU4H6YHUBMZ66
+/Game/__ExternalActors__/Lecture1-Exercise1/8/J8/6482SZJZ20E77NJQRF41WZ
+/Game/__ExternalActors__/Lecture1-Exercise1/B/IP/AU3XPECQX98D0640HIP211
+/Game/__ExternalActors__/Lecture1-Exercise1/8/VO/92NDDXIWV9G8BTOKVSZQNH
+/Game/__ExternalActors__/Lecture1-Exercise1/C/EL/JTWQMLFRCRSC4QHBDX3S11
+/Game/__ExternalActors__/Lecture1-Exercise1/4/PI/ADXAJ8UJQWWEPKYXJTKUEA
+/Game/__ExternalActors__/Lecture1-Exercise1/9/O2/GCCW0GIG5JU5WPIJ7PVLYO
+/Game/__ExternalActors__/Lecture1-Exercise1/E/QE/J2KGC656NTG3RKXEVKYLBL
+/Game/__ExternalActors__/Lecture1-Exercise1/3/XY/4H2F4D2K9XYNGYFTTRCOMI
+/Game/__ExternalActors__/Lecture1-Exercise1/2/OJ/HIGSENKTI9C13PWQDB0KGH
+/Game/__ExternalActors__/Lecture1-Exercise1/D/FS/S7L1HNMYYHU1N9C25K8SUC
+/Game/__ExternalActors__/Lecture1-Exercise1/7/U4/90W24MCNU5GORKJ6LSMDEW
+/Game/__ExternalActors__/Lecture1-Exercise1/A/4S/WSNGRZTAX5ZIGENNA1LV8P
+/Game/__ExternalActors__/Lecture1-Exercise1/0/76/CG0UGS4S7XZ53EGQIJXKTX
+/Game/__ExternalActors__/Lecture1-Exercise1/5/HK/ABISB8WYG0DZ9XII304XTC
+/Game/__ExternalActors__/Lecture1-Exercise1/F/0C/83UKHFHPV0WMICYUMJ6D7Q
+/Game/__ExternalActors__/Lecture1-Exercise1/7/5W/5PR63V96HO8IRRWNJSC652
+/Game/__ExternalActors__/Lecture1-Exercise1/E/1B/FTDZMQ4DWUVPXCXGIG6623
+/Game/__ExternalActors__/Lecture1-Exercise1/1/76/GHTQXEOERV5J15O9WSNZ9F
+/Game/__ExternalActors__/Lecture1-Exercise1/6/O8/R0GR0ZMDEJ06Q2AOPY3W14
+/Game/__ExternalActors__/Lecture1-Exercise1/4/98/EME2WAWXQDBY9KGXHXFEOX
+/Game/__ExternalActors__/Lecture1-Exercise1/9/AX/SBEOH8DPKHTBP97M1HNT36
+/Game/__ExternalActors__/Lecture1-Exercise1/3/03/WOUJUEUCYYGEUOX5WWL2AB
+/Game/__ExternalActors__/Lecture1-Exercise1/A/UN/LGASLPDHV9IE0X4MQ7DBZ4
+/Game/__ExternalActors__/Lecture1-Exercise1/8/9K/TDQ3VUQP97225HLZVSQFIV
+/Game/__ExternalActors__/Lecture1-Exercise1/9/VH/HFZR1PDRH2NO5KMN69QAMK
+/Game/__ExternalActors__/Lecture1-Exercise1/8/QC/AR0ZS7DVKOLE6MP2R32KE8
+/Game/__ExternalActors__/Lecture1-Exercise1/0/Q9/FJM2J5ARMI6O0DIFSTYK60
+/Game/__ExternalActors__/Lecture1-Exercise1/D/0P/3EI9UQ2OZZ01GWCO26LH53
+/Game/__ExternalActors__/Lecture1-Exercise1/8/WW/9AQB11JW93XOGWKYMHYF38
+/Game/__ExternalActors__/Lecture1-Exercise1/4/U2/SSSLOJS1PTIQQFCU5PYFS3
+/Game/__ExternalActors__/Lecture1-Exercise1/0/GQ/73WFBWQJKZ2MW3GYBJBDM7
+/Game/__ExternalActors__/Lecture1-Exercise1/D/61/RXOA1CCO96YU070K89SYD5
+/Game/__ExternalActors__/Lecture1-Exercise1/E/19/P4AU9717VT20OM19YJ2D1R
+/Game/__ExternalActors__/Lecture1-Exercise1/1/VM/3DQ4EQCFQMUMD42GPZ632Y
+/Game/__ExternalActors__/Lecture1-Exercise1/1/B0/W51Q0XP7EN2ETC1L2C9E47
+/Game/__ExternalActors__/Lecture1-Exercise1/A/XF/MD2RTKWENDPZGKCYR3WQAQ
+/Game/__ExternalActors__/Lecture1-Exercise1/1/BB/CA4RM5SM5S99VV5PY4G2SS
+/Game/__ExternalActors__/Lecture1-Exercise1/7/QB/MX162VO92GLXM0H9JE0KU2
+/Game/__ExternalActors__/Lecture1-Exercise1/3/2L/5O0JN3GEAWB9TX89SCE36J
+/Game/__ExternalActors__/Lecture1-Exercise1/C/V2/3ZVLC3GIKRAAHBDE7R1CGU
+/Game/__ExternalActors__/Lecture1-Exercise1/A/I9/C7KC6C4IMEWO75U3IALRXQ
+/Game/__ExternalActors__/Lecture1-Exercise1/4/DZ/L5NXAH4DKZD5IRR50CHLEL
+/Game/__ExternalActors__/Lecture1-Exercise1/1/48/AXPW9PXGZKLHXNLVXIVN4R
+/Game/__ExternalActors__/Lecture1-Exercise1/D/3A/3W1WB1YTV4O3ROW6CQXHQ4
+/Game/__ExternalActors__/Lecture1-Exercise1/3/VC/77UHXR2U1WH5DDJBIR2IVZ
+/Game/__ExternalActors__/Lecture1-Exercise1/5/4T/XJWX88I1L1GHGU04JJN9EW
+/Game/__ExternalActors__/Lecture1-Exercise1/D/7R/7T0TX9AP91466CZUTGTBVD
+/Game/__ExternalActors__/Lecture1-Exercise1/2/P8/UINFERILKOPR5O94HOJ15A
+/Game/__ExternalActors__/Lecture1-Exercise1/E/NV/1AQBC9ZQMV6HR78TAA925F
+/Game/__ExternalActors__/Lecture1-Exercise1/1/PU/7AIC0G8K7XCLKMYC7V7Q02
+[2025.09.02-17.43.35:000][923]LogFileHelpers: Saving map 'Lecture1-Exercise1' took 2.577
+[2025.09.02-17.43.35:000][923]Cmd: MAP LOAD FILE="../../../../../../Users/jpjpj/Documents/Unreal Projects/CGT215Park/Content/Lecture1-Exercise1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.02-17.43.35:027][923]LogWorld: UWorld::CleanupWorld for Lecture1-Exercise1, bSessionEnded=true, bCleanupResources=true
+[2025.09.02-17.43.35:027][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.02-17.43.35:027][923]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Lecture1-Exercise1.Lecture1-Exercise1
+[2025.09.02-17.43.35:077][923]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.02-17.43.35:092][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.02-17.43.35:095][923]LogStreaming: Display: FlushAsyncLoading(808): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.43.35:102][923]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lecture1-Exercise1'.
+[2025.09.02-17.43.35:102][923]LogChaosDD: Creating Chaos Debug Draw Scene for world Lecture1-Exercise1
+[2025.09.02-17.43.35:104][923]LogWorldPartition: ULevel::OnLevelLoaded(Lecture1-Exercise1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.09.02-17.43.35:104][923]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.02-17.43.35:104][923]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Lecture1-Exercise1.Lecture1-Exercise1, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.02-17.43.35:125][923]LogTexture: Display: Building textures: /Game/Lecture1-Exercise1.Lecture1-Exercise1:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 316.833323 MB), EncodeSpeed: Fast
+[2025.09.02-17.43.35:476][923]LogWorldPartition: Display: WorldPartition initialize took 373.211 ms (total: 689.539 ms)
+[2025.09.02-17.43.35:889][923]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.02-17.43.35:924][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.02-17.43.35:930][923]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.02-17.43.35:931][923]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.193ms to complete.
+[2025.09.02-17.43.36:200][923]LogContentValidation: Display: Starting to validate 147 assets
+[2025.09.02-17.43.36:200][923]LogContentValidation: Enabled validators:
+[2025.09.02-17.43.36:200][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.02-17.43.36:200][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.02-17.43.36:200][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.02-17.43.36:200][923]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.02-17.43.36:200][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.02-17.43.36:201][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.02-17.43.36:201][923]AssetCheck: /Game/Lecture1-Exercise1 Validating asset
+[2025.09.02-17.43.36:201][923]AssetCheck: /Game/Lecture1-Exercise1_HLOD0_Instancing Validating asset
